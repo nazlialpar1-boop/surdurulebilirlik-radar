@@ -1,0 +1,50 @@
+ {
+    "lastUpdated": "2026-07-01",
+    "updates": [
+      {                                                      
+        "id": "2026-07-01-001",
+        "date": "2026-07-01",
+        "category": "Raporlama",
+        "categoryIcon": "📋",
+        "title": "TSRS Uygulama Takvimi Güncellendi",
+        "summary": "Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu (KGK),
+  Türkiye Sürdürülebilirlik Raporlama Standartları kapsamında raporlama 
+  yükümlülüklerinin 2024 yılı itibarıyla büyük halka açık şirketler için 
+  başladığını hatırlattı.",
+        "source": "KGK",
+        "sourceUrl": "",
+        "tags": ["TSRS", "KGK", "raporlama"],
+        "importance": "high"
+      },
+      {
+        "id": "2026-07-01-002",
+        "date": "2026-07-01",
+        "category": "Karbon & İklim",                        
+        "categoryIcon": "🏭",
+        "title": "AB CBAM Geçiş Dönemi Sona Eriyor",
+        "summary": "Avrupa Birliği Sınırda Karbon Düzenlemesi'nin (CBAM) geçiş 
+  dönemi Aralık 2025'te sona erdi. Türkiye'den AB'ye demir-çelik, çimento, 
+  gübre, alüminyum ve elektrik ihraç eden şirketler artık CBAM sertifikası satın
+  almak zorunda.",
+        "source": "Avrupa Komisyonu",
+        "sourceUrl": "",
+        "tags": ["CBAM", "karbon", "ihracat", "AB"],
+        "importance": "high"
+      },
+      {
+        "id": "2026-07-01-003",
+        "date": "2026-07-01",
+        "category": "Orman & Biyoçeşitlilik",                
+        "categoryIcon": "🌳",
+        "title": "EUDR Uygulaması Başladı",
+        "summary": "AB Ormansızlaşma Tüzüğü (EUDR) büyük operatörler için Aralık
+  2025'ten itibaren yürürlükte. Kakao, kahve, soya, palmiye yağı, sığır eti, 
+  kauçuk ve odun ürünleri ihraç eden Türk firmalar ürünlerinin ormansızlaşmaya 
+  yol açmadığını belgelemek zorunda.",
+        "source": "Avrupa Komisyonu",
+        "sourceUrl": "",
+        "tags": ["EUDR", "ormansızlaşma", "tedarik zinciri"],
+        "importance": "high"
+      }
+    ]
+  }
