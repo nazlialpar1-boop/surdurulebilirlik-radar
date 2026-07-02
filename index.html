@@ -1,0 +1,572 @@
+ <!DOCTYPE html>
+  <html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sürdürülebilirlik Radar</title>
+    <style>
+      :root {
+        --bg: #f0f4f0;
+        --surface: #ffffff;
+        --card: #ffffff;
+        --border: #e2e8e2;
+        --accent: #2d6a4f;
+        --accent-light: #e8f5e2;
+        --accent2: #52b788;
+        --text: #1b2e1f;
+        --muted: #6b8c74;
+        --red: #e63946;
+        --yellow: #f4a261;
+        --blue: #457b9d;
+      }
+
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        min-height: 100vh;
+        font-size: 15px;
+      }
+
+      header {
+        background: var(--accent);
+        padding: 20px 24px;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+      }
+      .header-inner {
+        max-width: 900px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        flex-wrap: wrap;
+      }
+      .header-brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .header-brand .logo { font-size: 1.6rem; }
+      .header-brand h1 {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: #fff;
+        line-height: 1.2;
+      }
+      .header-brand p {
+        font-size: 0.78rem;
+        color: rgba(255,255,255,0.7);
+        margin-top: 1px;
+      }
+      .last-updated {
+        font-size: 0.78rem;
+        color: rgba(255,255,255,0.65);
+        background: rgba(255,255,255,0.1);
+        padding: 6px 12px;
+        border-radius: 20px;
+        white-space: nowrap;
+      }
+
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 24px 16px;
+      }
+
+      .filters-section { margin-bottom: 24px; }
+      .filters-label {
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        margin-bottom: 10px;
+      }
+      .filters {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+      .filter-btn {
+        display: flex;
+        align-items: center;                                 
+        gap: 6px;
+        padding: 7px 14px;
+        border-radius: 20px;
+        border: 1.5px solid var(--border);
+        background: var(--surface);
+        color: var(--muted);
+        font-size: 0.82rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.18s;
+        white-space: nowrap;
+      }
+      .filter-btn:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+        background: var(--accent-light);
+      }
+      .filter-btn.active {
+        background: var(--accent);
+        border-color: var(--accent);
+        color: #fff;
+        font-weight: 600;
+      }
+      .filter-count {
+        background: rgba(255,255,255,0.25);
+        border-radius: 10px;
+        padding: 1px 6px;
+        font-size: 0.72rem;
+        font-weight: 700;
+      }
+      .filter-btn:not(.active) .filter-count {
+        background: var(--border);
+        color: var(--muted);
+      }
+
+      .date-group { margin-bottom: 28px; }
+      .date-label {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        margin-bottom: 12px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .date-label::after {
+        content: '';
+        flex: 1;
+        height: 1px;
+        background: var(--border);
+      }
+
+      .update-card {
+        background: var(--card);
+        border: 1.5px solid var(--border);
+        border-radius: 14px;
+        padding: 18px 20px;
+        margin-bottom: 10px;
+        transition: box-shadow 0.18s, border-color 0.18s;
+      }
+      .update-card:hover {
+        box-shadow: 0 4px 20px rgba(45,106,79,0.1);
+        border-color: var(--accent2);
+      }                                                      
+      .update-card.importance-high { border-left: 4px solid var(--red); }
+      .update-card.importance-medium { border-left: 4px solid var(--yellow); }
+      .update-card.importance-low { border-left: 4px solid var(--accent2); }
+
+      .card-top {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 10px;
+        flex-wrap: wrap;
+      }
+      .card-meta {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+      .category-badge {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 4px 10px;
+        border-radius: 20px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        background: var(--accent-light);
+        color: var(--accent);
+        white-space: nowrap;
+      }
+      .importance-badge {
+        font-size: 0.72rem;
+        padding: 3px 8px;                                    
+        border-radius: 10px;
+        font-weight: 600;
+      }
+      .importance-badge.high { background: #ffeaea; color: var(--red); }
+      .importance-badge.medium { background: #fff3e0; color: #e07b00; }
+      .importance-badge.low { background: #e8f5e2; color: var(--accent); }
+
+      .card-source {
+        font-size: 0.75rem;
+        color: var(--muted);
+        white-space: nowrap;
+      }
+      .card-title {
+        font-size: 1rem;
+        font-weight: 700;
+        color: var(--text);
+        line-height: 1.4;
+        margin-bottom: 8px;
+      }
+      .card-summary {
+        font-size: 0.88rem;
+        color: #3d5a45;
+        line-height: 1.65;
+      }
+      .card-tags {
+        display: flex;
+        gap: 6px;
+        flex-wrap: wrap;
+        margin-top: 12px;
+      }
+      .tag {
+        font-size: 0.72rem;
+        padding: 3px 8px;
+        background: var(--bg);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        color: var(--muted);
+      }
+
+      .empty {
+        text-align: center;
+        padding: 60px 20px;
+        color: var(--muted);
+      }
+      .empty .icon { font-size: 3rem; margin-bottom: 12px; }
+      .empty p { font-size: 0.95rem; }
+
+      .loading {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 80px 20px;
+        gap: 14px;
+        color: var(--muted);
+      }
+      .spinner {
+        width: 36px; height: 36px;
+        border: 3px solid var(--border);
+        border-top-color: var(--accent);
+        border-radius: 50%;
+        animation: spin 0.8s linear infinite;
+      }
+      @keyframes spin { to { transform: rotate(360deg); } }
+
+      .stats-bar {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;                                     
+        margin-bottom: 24px;
+      }
+      .stat-item {
+        background: var(--surface);
+        border: 1.5px solid var(--border);
+        border-radius: 10px;
+        padding: 12px 16px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex: 1;
+        min-width: 120px;
+      }
+      .stat-icon { font-size: 1.4rem; }
+      .stat-val { font-size: 1.4rem; font-weight: 800; color: var(--accent);
+  line-height: 1; }
+      .stat-lbl { font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
+
+      .search-bar {
+        position: relative;
+        margin-bottom: 20px;
+      }
+      .search-input {
+        width: 100%;
+        padding: 11px 16px 11px 40px;
+        border: 1.5px solid var(--border);
+        border-radius: 10px;
+        background: var(--surface);
+        color: var(--text);
+        font-size: 0.9rem;                                   
+        outline: none;
+        transition: border-color 0.18s;
+      }
+      .search-input:focus { border-color: var(--accent); }
+      .search-input::placeholder { color: var(--muted); }
+      .search-icon {
+        position: absolute;
+        left: 13px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: var(--muted);
+        font-size: 1rem;
+        pointer-events: none;
+      }
+
+      footer {
+        text-align: center;                                  
+        padding: 32px 16px;
+        color: var(--muted);
+        font-size: 0.78rem;
+        border-top: 1px solid var(--border);
+        margin-top: 16px;
+      }
+
+      @media (max-width: 600px) {
+        .header-inner { gap: 10px; }
+        .stats-bar { gap: 8px; }
+        .stat-item { padding: 10px 12px; min-width: 100px; }
+        .update-card { padding: 14px 16px; }
+      }
+    </style>
+  </head>
+  <body>
+                                                             
+  <header>
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="logo">🌱</span>
+        <div>
+          <h1>Sürdürülebilirlik Radar</h1>
+          <p>Türkiye için günlük regülasyon güncellemeleri</p>
+        </div>
+      </div>
+      <div class="last-updated" id="last-updated">Yükleniyor...</div>
+    </div>
+  </header>
+
+  <div class="container">
+  
+    <div class="stats-bar" id="stats-bar">                   
+      <div class="loading"><div class="spinner"></div></div>
+    </div>
+
+    <div class="search-bar">
+      <span class="search-icon">🔍</span>
+      <input
+        type="text"
+        class="search-input"
+        id="search-input"
+        placeholder="Güncelleme ara... (örn: CBAM, ambalaj, su)"
+      />
+    </div>
+
+    <div class="filters-section">
+      <div class="filters-label">Kategoriye göre filtrele</div>
+      <div class="filters" id="filters"></div>
+    </div>
+
+    <div id="updates-container">
+      <div class="loading">
+        <div class="spinner"></div>
+        <span>Güncellemeler yükleniyor...</span>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    Sürdürülebilirlik Radar · İçerikler Claude AI tarafından derlenmektedir ·
+  Resmi kaynakları doğrulayınız
+  </footer>
+
+  <script>
+  const CATEGORIES = [
+    { key: 'Tümü',                   icon: '🌿' },           
+    { key: 'Raporlama',              icon: '📋' },
+    { key: 'Karbon & İklim',         icon: '🏭' },
+    { key: 'Ambalaj & Atık',         icon: '📦' },
+    { key: 'Orman & Biyoçeşitlilik', icon: '🌳' },
+    { key: 'Su',                     icon: '💧' },
+    { key: 'Enerji',                 icon: '⚡' },
+    { key: 'Tedarik Zinciri',        icon: '🔗' },
+    { key: 'Şirket Haberleri',       icon: '🏢' },
+    { key: 'AB Regülasyonları',      icon: '🌍' },
+    { key: 'Finans & Taksonomi',     icon: '📊' },
+  ];
+
+  const IMPORTANCE_TR = { high: 'Önemli', medium: 'Orta', low: 'Bilgi' };
+
+  let allUpdates = [];
+  let activeCategory = 'Tümü';
+  let searchQuery = '';
+
+  async function loadData() {
+    try {
+      const res = await fetch('data/updates.json?nocache=' + Date.now());
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      allUpdates = data.updates || [];
+      document.getElementById('last-updated').textContent =
+        '🕐 Son güncelleme: ' + formatDateTR(data.lastUpdated);
+      render();
+    } catch (e) {
+      document.getElementById('updates-container').innerHTML =
+        `<div class="empty"><div class="icon">⚠️ </div><p>Veriler 
+  yüklenemedi.<br><small>${e.message}</small></p></div>`;
+      document.getElementById('stats-bar').innerHTML = '';
+    }
+  }
+
+  function filtered() {
+    return allUpdates.filter(u => {
+      const catMatch = activeCategory === 'Tümü' || u.category ===
+  activeCategory;
+      const q = searchQuery.toLowerCase();
+      const textMatch = !q ||
+        u.title.toLowerCase().includes(q) ||
+        u.summary.toLowerCase().includes(q) ||
+        (u.tags || []).some(t => t.toLowerCase().includes(q)) ||
+        u.category.toLowerCase().includes(q);
+      return catMatch && textMatch;
+    });
+  }
+  
+  function countByCategory(cat) {                            
+    if (cat === 'Tümü') return allUpdates.length;
+    return allUpdates.filter(u => u.category === cat).length;
+  }
+
+  function render() {
+    renderStats();
+    renderFilters();                                         
+    renderUpdates();
+  }
+
+  function renderStats() {
+    const total = allUpdates.length;                         
+    const high = allUpdates.filter(u => u.importance === 'high').length;
+    const cats = new Set(allUpdates.map(u => u.category)).size;
+    const today = allUpdates.filter(u => u.date === todayStr()).length;
+
+    document.getElementById('stats-bar').innerHTML = `
+      <div class="stat-item">
+        <span class="stat-icon">📰</span>
+        <div><div class="stat-val">${total}</div><div class="stat-lbl">Toplam
+  güncelleme</div></div>
+      </div>
+      <div class="stat-item">
+        <span class="stat-icon">🔴</span>
+        <div><div class="stat-val">${high}</div><div
+  class="stat-lbl">Önemli</div></div>
+      </div>
+      <div class="stat-item">
+        <span class="stat-icon">📂</span>
+        <div><div class="stat-val">${cats}</div><div
+  class="stat-lbl">Kategori</div></div>
+      </div>
+      <div class="stat-item">
+        <span class="stat-icon">📅</span>
+        <div><div class="stat-val">${today}</div><div
+  class="stat-lbl">Bugün</div></div>
+      </div>`;
+  }
+  
+  function renderFilters() {                                 
+    document.getElementById('filters').innerHTML = CATEGORIES
+      .filter(c => c.key === 'Tümü' || countByCategory(c.key) > 0)
+      .map(c => {
+        const count = countByCategory(c.key);
+        const active = activeCategory === c.key ? 'active' : '';
+        return `
+          <button class="filter-btn ${active}"
+  onclick="setCategory('${c.key}')">
+            <span>${c.icon}</span>
+            <span>${c.key}</span>
+            <span class="filter-count">${count}</span>
+          </button>`;
+      }).join('');
+  }
+
+  function renderUpdates() {
+    const items = filtered();
+    const container = document.getElementById('updates-container');
+
+    if (items.length === 0) {
+      container.innerHTML = `
+        <div class="empty">                                  
+          <div class="icon">🔍</div>
+          <p>Bu kriterlere uygun güncelleme bulunamadı.</p>
+        </div>`;
+      return;
+    }
+  
+    const byDate = {};                                       
+    items.forEach(u => {
+      if (!byDate[u.date]) byDate[u.date] = [];
+      byDate[u.date].push(u);
+    });
+
+    const sortedDates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
+
+    container.innerHTML = sortedDates.map(date => `
+      <div class="date-group">
+        <div class="date-label">${formatDateTR(date)}</div>
+        ${byDate[date].map(cardHTML).join('')}
+      </div>
+    `).join('');
+  }
+  
+  function cardHTML(u) {                                     
+    const impLabel = IMPORTANCE_TR[u.importance] || u.importance;
+    const tagsHTML = (u.tags || []).map(t => `<span 
+  class="tag">${t}</span>`).join('');
+    const sourceHTML = u.source
+      ? `<span class="card-source">${u.sourceUrl
+          ? `<a href="${u.sourceUrl}" target="_blank"
+  style="color:var(--muted);text-decoration:none">🔗 ${u.source}</a>`
+          : '🔗 ' + u.source}</span>`
+      : '';
+
+    return `
+      <div class="update-card importance-${u.importance}">   
+        <div class="card-top">
+          <div class="card-meta">
+            <span class="category-badge">${u.categoryIcon} ${u.category}</span>
+            <span class="importance-badge ${u.importance}">${impLabel}</span>
+          </div>
+          ${sourceHTML}
+        </div>
+        <div class="card-title">${u.title}</div>
+        <div class="card-summary">${u.summary}</div>
+        ${tagsHTML ? `<div class="card-tags">${tagsHTML}</div>` : ''}
+      </div>`;
+  }
+
+  function setCategory(cat) {
+    activeCategory = cat;
+    render();
+  }
+
+  document.getElementById('search-input').addEventListener('input', function() {
+    searchQuery = this.value;                                
+    renderUpdates();
+  });
+
+  function todayStr() {
+    return new Date().toISOString().slice(0, 10);
+  }
+
+  function formatDateTR(dateStr) {
+    if (!dateStr) return '';
+    const d = new Date(dateStr + 'T00:00:00');               
+    const today = new Date();
+    today.setHours(0,0,0,0);
+    const diff = Math.round((today - d) / 86400000);
+    const formatted = d.toLocaleDateString('tr-TR', { day: 'numeric', month:
+  'long', year: 'numeric' });
+    if (diff === 0) return `Bugün · ${formatted}`;
+    if (diff === 1) return `Dün · ${formatted}`;
+    return formatted;
+  }
+
+  loadData();
+  </script>
+  </body>
+  </html>
