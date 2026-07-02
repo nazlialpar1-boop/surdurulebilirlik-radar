@@ -33,7 +33,7 @@ def fetch_updates():
     with open("scripts/prompt.txt", "r", encoding="utf-8") as f:
         prompt = "Bugun " + TODAY + ". " + f.read().replace("TARIH", TODAY)
     message = client.messages.create(
-        model="claude-opus-4-8",
+        model="claude-haiku-4-5-20251001",
         max_tokens=4000,
         messages=[{"role": "user", "content": prompt}]
     )
