@@ -22,9 +22,8 @@ json.dump(data, f, ensure_ascii=False, indent=2)
 
 def fetch_updates():
 client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-prompt = "Bugun " + TODAY + ". Turkiye surdurulebilirlik JSON ver. Format: {\"updates\": [{\"id\": \"x\", \"date\":
-\"" + TODAY + "\", \"category\": \"Raporlama\", \"categoryIcon\": \"📋\", \"title\": \"test\", \"summary\": \"test\",
-\"source\": \"test\", \"sourceUrl\": \"\", \"tags\": [\"test\"], \"importance\": \"high\"}]}"
+with open("scripts/prompt.txt", "r", encoding="utf-8") as f:
+prompt = "Bugun " + TODAY + ". " + f.read().replace("TARIH", TODAY)
 message = client.messages.create(
 model="claude-opus-4-8",
 max_tokens=4000,
