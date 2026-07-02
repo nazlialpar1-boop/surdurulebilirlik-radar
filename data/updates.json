@@ -6,49 +6,47 @@
       "date": "2026-07-02",
       "category": "Kurumsal Sürdürülebilirlik Raporlaması",
       "categoryIcon": "📊",
-      "title": "CSRD Uyum Süresi Uzatılması - 2026 Güncelleme",
-      "summary": "Türkiye'deki büyük işletmeler için Kurumsal Sürdürülebilirlik Raporlama Direktifi (CSRD) uyum tarihinde değişiklikler yapılmıştır. ESG raporlaması kapsamı genişletilmiş ve yeni sektörel gereklilikler eklenmiştir.",
-      "source": "Türkiye Hazine ve Maliye Bakanlığı",
+      "title": "CSRD Uyumlu Raporlama Standartları Güncellenmesi",
+      "summary": "Türkiye'de faaliyet gösteren büyük işletmeler için Kurumsal Sürdürülebilirlik Raporlama Direktifi (CSRD) uyumlu yeni raporlama standartları yürürlüğe girmiştir. Raporlar çift yönlü materyalite analizi içermelidir. 2026 sonu itibariyle tüm çift yönlü materyalite değerlendirmelerinin tamamlanması zorunludur.",
+      "source": "Türkiye Kurumsal Yönetim Derneği",
       "sourceUrl": "",
       "tags": [
         "CSRD",
-        "ESG",
-        "Raporlama",
-        "Uyum"
+        "raporlama",
+        "materyalite",
+        "kurumsal yönetim"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-02-002",
       "date": "2026-07-02",
-      "category": "Karbon Yönetimi",
-      "categoryIcon": "🌱",
-      "title": "Ulusal Karbon Ticareti Sistemi Genişletilmesi",
-      "summary": "Türkiye'nin ulusal karbon ticareti sistemi yeni sektörleri kapsayacak şekilde genişletilmiştir. Enerji, ulaştırma ve üretim sektörleri için zorunlu karbon raporlaması başlamıştır.",
-      "source": "Çevre, Orman ve Su Yönetimi Bakanlığı",
+      "category": "Enerji Verimliliği",
+      "categoryIcon": "⚡",
+      "title": "Endüstriyel İşletmelerde Zorunlu Enerji Denetimi Süresi",
+      "summary": "Türkiye Enerji ve Tabii Kaynaklar Bakanlığı endüstriyel işletmelerde enerji denetim sürelerini 4 yıldan 3 yıla indirmiştir. Bu değişiklik temmuz ayında resmi gazetede yayınlanmıştır.",
+      "source": "Enerji ve Tabii Kaynaklar Bakanlığı",
       "sourceUrl": "",
       "tags": [
-        "Karbon",
-        "ETS",
-        "İklim",
-        "Emisyon"
+        "enerji verimliliği",
+        "denetim",
+        "endüstri"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-02-003",
       "date": "2026-07-02",
-      "category": "Yeşil Finansman",
-      "categoryIcon": "💚",
-      "title": "Yeşil Tahvil Standartları Güncellenmesi",
-      "summary": "Türkiye Merkez Bankası tarafından yeşil tahvil ve sürdürülebilir finansman araçlarına ilişkin yeni standartlar yayınlanmıştır. Kredi kuruluşları için ESG kriterleri zorunlu hale getirilmiştir.",
-      "source": "Türkiye Merkez Bankası",
+      "category": "Çevre Yönetimi",
+      "categoryIcon": "🌱",
+      "title": "Plastik Kullanım Azaltma Yönetmeliğinde Yeni Sınırlamalar",
+      "summary": "Tek kullanımlık plastik ürünlerde yeni sınırlamalar getiren yönetmelik güncellenmesi yürürlüğe girmiştir. Gıda ve içecek sektöründe plastik kullanımında %30 azaltım hedefi belirlenmiştir. Ayrıntılı uyum periyodu 18 aydır.",
+      "source": "Çevre, Orman ve Su Yönetimi Bakanlığı",
       "sourceUrl": "",
       "tags": [
-        "Yeşil Tahvil",
-        "Finansman",
-        "Bankacılık",
-        "ESG"
+        "plastik",
+        "çevre",
+        "tek kullanımlık"
       ],
       "importance": "high"
     }
