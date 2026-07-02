@@ -22,12 +22,9 @@ json.dump(data, f, ensure_ascii=False, indent=2)
 
 def fetch_updates():
 client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-prompt = "Bugun " + TODAY + ". Turkiye surdurulebilirlik regulasyonlari JSON guncelleme ver. Kategoriler: Raporlama,
-Karbon ve Iklim, Ambalaj ve Atik, Orman ve Biyocesitlilik, Su, Enerji, Tedarik Zinciri, Sirket Haberleri, AB
-Regulasyonlari, Finans ve Taksonomi. Her kategori icin 1-2 guncelleme. Sadece JSON: {\"updates\": [{\"id\": \"" + TODAY
-+ "-001\", \"date\": \"" + TODAY + "\", \"category\": \"kategori\", \"categoryIcon\": \"emoji\", \"title\": \"baslik\",
-\"summary\": \"2-3 cumle aciklama\", \"source\": \"kaynak\", \"sourceUrl\": \"\", \"tags\": [\"etiket\"],
-\"importance\": \"high\"}]}"
+prompt = "Bugun " + TODAY + ". Turkiye surdurulebilirlik JSON ver. Format: {\"updates\": [{\"id\": \"x\", \"date\":
+\"" + TODAY + "\", \"category\": \"Raporlama\", \"categoryIcon\": \"📋\", \"title\": \"test\", \"summary\": \"test\",
+\"source\": \"test\", \"sourceUrl\": \"\", \"tags\": [\"test\"], \"importance\": \"high\"}]}"
 message = client.messages.create(
 model="claude-opus-4-8",
 max_tokens=4000,
