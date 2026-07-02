@@ -5,14 +5,14 @@
 
   TODAY = date.today().isoformat()
 
-
+  
   def load_existing(path):
       if os.path.exists(path):
           with open(path, "r", encoding="utf-8") as f:
               return json.load(f)
       return {"lastUpdated": TODAY, "updates": []}
 
-
+  
   def save_data(path, data):
       os.makedirs(os.path.dirname(path), exist_ok=True)
       with open(path, "w", encoding="utf-8") as f:
