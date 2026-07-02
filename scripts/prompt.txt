@@ -1,0 +1,4 @@
+Turkiye surdurulebilirlik regulasyonlari JSON guncelleme ver. Sadece JSON don, baska hicbir sey yazma. Format:
+{"updates": [{"id": "TARIH-001", "date": "TARIH", "category": "kategori adi", "categoryIcon": "emoji", "title":
+"baslik", "summary": "2-3 cumle aciklama", "source": "kaynak", "sourceUrl": "", "tags": ["etiket"], "importance":
+"high"}]}
