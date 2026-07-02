@@ -3,7 +3,7 @@
     push:
       branches: [main]
     workflow_dispatch:
-     schedule:
+    schedule:
       - cron: '0 6 * * *'  # Her gün 09:00 Türkiye saati
   jobs:
     run:
