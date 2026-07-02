@@ -1,6 +1,7 @@
 import anthropic
 import json
 import os
+import re
 from datetime import date
 
 TODAY = date.today().isoformat()
@@ -19,6 +20,14 @@ def save_data(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def extract_json(raw):
+    raw = raw.strip()
+    match = re.search(r'\{.*\}', raw, re.DOTALL)
+    if match:
+        return match.group(0)
+    return raw
+
+
 def fetch_updates():
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     with open("scripts/prompt.txt", "r", encoding="utf-8") as f:
@@ -28,12 +37,9 @@ def fetch_updates():
         max_tokens=4000,
         messages=[{"role": "user", "content": prompt}]
     )
-    raw = message.content[0].text.strip()
-    if raw.startswith("```"):
-        raw = raw.split("```")[1]
-        if raw.startswith("json"):
-            raw = raw[4:]
-    raw = raw.strip()
+    raw = message.content[0].text
+    print("Ham yanit:", raw[:200])
+    raw = extract_json(raw)
     new_data = json.loads(raw)
     new_updates = new_data.get("updates", [])
     data_path = "data/updates.json"
@@ -43,7 +49,7 @@ def fetch_updates():
     existing["updates"] = existing["updates"][:180]
     existing["lastUpdated"] = TODAY
     save_data(data_path, existing)
-    print("Bitti.")
+    print("Bitti. " + str(len(new_updates)) + " guncelleme eklendi.")
 
 
 if __name__ == "__main__":
