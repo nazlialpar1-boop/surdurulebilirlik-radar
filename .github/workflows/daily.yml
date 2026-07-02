@@ -1,4 +1,4 @@
- name: Günlük Sürdürülebilirlik Güncellemeleri
+name: Daily Sustainability Updates
 
   on:
     schedule:
@@ -11,27 +11,27 @@
       permissions:
         contents: write
       steps:
-        - name: Repoyu indir
-          uses: actions/checkout@v4                          
+        - name: Checkout
+          uses: actions/checkout@v4
 
-        - name: Python kur
+        - name: Setup Python                                 
           uses: actions/setup-python@v5
           with:
-            python-version: '3.11'
+            python-version: '3.11'                           
 
-        - name: Bağımlılıkları yükle
+        - name: Install dependencies
           run: pip install anthropic
-                                                             
-        - name: Güncellemeleri çek
+  
+        - name: Fetch updates                                
           env:
             ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           run: python scripts/fetch_updates.py
 
-        - name: Değişiklikleri kaydet
+        - name: Commit changes
           run: |
-            git config user.name "Sürdürülebilirlik Radar Bot"
-            git config user.email "bot@surdurulebilirlik-radar"
+            git config user.name "radar-bot"
+            git config user.email "bot@radar"
             git add data/updates.json
-            git diff --staged --quiet || git commit -m "🌱 Günlük güncelleme: 
-  $(date +'%Y-%m-%d')"
+            git diff --staged --quiet || git commit -m "daily update $(date 
+  +'%Y-%m-%d')"
             git push
