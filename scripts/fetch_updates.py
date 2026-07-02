@@ -38,7 +38,8 @@
       new_updates = new_data.get("updates", [])
       data_path = "data/updates.json"
       existing = load_existing(data_path)
-      existing["updates"] = [u for u in existing["updates"] if u["date"] != TODAY]
+      existing["updates"] = [u for u in existing["updates"] if u["date"] !=
+  TODAY]
       existing["updates"] = new_updates + existing["updates"]
       existing["updates"] = existing["updates"][:180]
       existing["lastUpdated"] = TODAY
@@ -47,4 +48,4 @@
 
 
   if __name__ == "__main__":
-      fetch_updates()
+      fetch_updates(
