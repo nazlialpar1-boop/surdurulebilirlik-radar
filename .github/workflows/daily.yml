@@ -1,4 +1,4 @@
-name: Günlük Sürdürülebilirlik Güncellemeleri
+ name: Günlük Sürdürülebilirlik Güncellemeleri
 
   on:
     schedule:
@@ -7,12 +7,12 @@ name: Günlük Sürdürülebilirlik Güncellemeleri
 
   jobs:
     fetch-updates:
-      runs-on: ubuntu-latest
+      runs-on: ubuntu-latest                                 
       permissions:
         contents: write
       steps:
         - name: Repoyu indir
-          uses: actions/checkout@v4
+          uses: actions/checkout@v4                          
 
         - name: Python kur
           uses: actions/setup-python@v5
@@ -21,7 +21,7 @@ name: Günlük Sürdürülebilirlik Güncellemeleri
 
         - name: Bağımlılıkları yükle
           run: pip install anthropic
-
+                                                             
         - name: Güncellemeleri çek
           env:
             ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
