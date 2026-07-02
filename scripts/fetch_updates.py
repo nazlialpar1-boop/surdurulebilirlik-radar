@@ -1,11 +1,11 @@
-import anthropic
-import json
-import os
-from datetime import date
+  import anthropic
+  import json
+  import os
+  from datetime import date
 
-TODAY = date.today().isoformat()
+  TODAY = date.today().isoformat()
 
-PROMPT = "Turkiye surdurulebilirlik regulasyonlari hakkinda guncel bilgi ver."
+  PROMPT = "Turkiye surdurulebilirlik regulasyonlari hakkinda guncel bilgi ver."
 
 
   def load_existing(path):
@@ -54,4 +54,3 @@ PROMPT = "Turkiye surdurulebilirlik regulasyonlari hakkinda guncel bilgi ver."
 
   if __name__ == "__main__":
       fetch_updates()
-
