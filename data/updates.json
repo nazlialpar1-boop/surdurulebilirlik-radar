@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-07-02",
+  "lastUpdated": "2026-07-03",
   "updates": [
+    {
+      "id": "2026-07-03-001",
+      "date": "2026-07-03",
+      "category": "Enerji Verimliliği",
+      "categoryIcon": "⚡",
+      "title": "Endüstriyel İşletmeler için Enerji Denetim Zorunluluğu Genişletildi",
+      "summary": "Türkiye, büyük endüstriyel işletmelerde enerji verimliliği denetimlerinin kapsamını genişletmiştir. ISO 50001 standardına uyum sağlayan işletmelere indirimli vergilendirme uygulanacaktır.",
+      "source": "Türkiye Cumhuriyet Merkez Bankası Basın Açıklaması",
+      "sourceUrl": "",
+      "tags": [
+        "enerji",
+        "endüstri",
+        "verimliliği",
+        "ISO50001"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-03-002",
+      "date": "2026-07-03",
+      "category": "Çevre Koruma",
+      "categoryIcon": "🌱",
+      "title": "Plastik Poşet Kullanım Yasakları Yeniden Düzenlendi",
+      "summary": "Çevre Bakanlığı, tek kullanımlık plastik poşet yasaklarını kademeli olarak artırarak 2026'da tüm perakende işletmelerde uygulamaya başlayacağını duyurmuştur. Alternatif malzemeler teşvik edilmektedir.",
+      "source": "Çevre, Orman ve Su Yönetimi Bakanlığı",
+      "sourceUrl": "",
+      "tags": [
+        "plastik",
+        "atık",
+        "çevre",
+        "yasaklar"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-03-003",
+      "date": "2026-07-03",
+      "category": "Kurumsal Sosyal Sorumluluk",
+      "categoryIcon": "🤝",
+      "title": "Biyolojik Çeşitlilik Raporlaması Zorunlu Hale Geldi",
+      "summary": "Borsa İstanbul'da işlem gören şirketlerin biyolojik çeşitlilik etki değerlendirmelerini yıllık raporda sunması artık zorunludur. Rapor eksikliği halinde idari para cezası uygulanacaktır.",
+      "source": "SPK (Sermaye Piyasası Kurulu)",
+      "sourceUrl": "",
+      "tags": [
+        "biyoçeşitlilik",
+        "raporlama",
+        "kurumsal",
+        "şeffaflık"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-02-001",
       "date": "2026-07-02",
