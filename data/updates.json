@@ -1,6 +1,57 @@
 {
-  "lastUpdated": "2026-07-03",
+  "lastUpdated": "2026-07-04",
   "updates": [
+    {
+      "id": "2026-07-04-001",
+      "date": "2026-07-04",
+      "category": "Enerji Verimliliği",
+      "categoryIcon": "⚡",
+      "title": "Endüstriyel İşletmelerde Enerji Denetimi Zorunluluğu Güncellendi",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası tarafından 2026 yılında endüstriyel işletmelerin enerji denetimlerini her 4 yılda bir yapması zorunlu hale getirilmiştir. Bu düzenleme, işletmelerin enerji verimliliğini artırmasını ve karbon emisyonlarını azaltmasını amaçlamaktadır. Yönetmelik uygulanmayan işletmelere idari para cezası uygulanacaktır.",
+      "source": "T.C. Sanayi ve Teknoloji Bakanlığı",
+      "sourceUrl": "https://www.sanayi.gov.tr",
+      "tags": [
+        "enerji verimliliği",
+        "endüstri",
+        "denetim",
+        "sürdürülebilirlik"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-04-002",
+      "date": "2026-07-04",
+      "category": "Çevre Koruma",
+      "categoryIcon": "🌱",
+      "title": "Plastik Ambalaj Kullanım Kısıtlaması Yürürlüğe Girdi",
+      "summary": "Türkiye'de tek kullanımlık plastik ambalajlara yönelik yeni kısıtlamalar 1 Temmuz 2026'da yürürlüğe girmiştir. Perakende ve gıda sektöründe plastik poşet kullanımı yasaklanmıştır. İşletmelerin 6 ay içinde alternatif ambalaj sistemlerine geçmesi gerekmektedir.",
+      "source": "T.C. Çevre, Orman ve Su İşleri Bakanlığı",
+      "sourceUrl": "https://www.ormansu.gov.tr",
+      "tags": [
+        "plastik",
+        "ambalaj",
+        "çevre",
+        "atık yönetimi"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-04-003",
+      "date": "2026-07-04",
+      "category": "Kurumsal Raporlama",
+      "categoryIcon": "📊",
+      "title": "Borsa İstanbul'da Sürdürülebilirlik Raporlaması Zorunluluğu",
+      "summary": "Borsa İstanbul'da işlem gören şirketlerin 2026 yılından itibaren yıllık sürdürülebilirlik raporlaması yapması zorunlu hale getirilmiştir. Raporlarda ESG kriterlerine uyum, çevresel etkiler ve sosyal sorumluluk çalışmaları detaylı olarak yer almak zorundadır.",
+      "source": "Borsa İstanbul A.Ş.",
+      "sourceUrl": "https://www.borsaistanbul.com",
+      "tags": [
+        "ESG",
+        "raporlama",
+        "kurumsal yönetim",
+        "finansal düzenleme"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-03-001",
       "date": "2026-07-03",
