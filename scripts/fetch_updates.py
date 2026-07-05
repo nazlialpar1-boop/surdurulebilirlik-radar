@@ -29,16 +29,20 @@ def extract_json(raw):
 
 
 def fetch_updates():
+    print("API key kontrol:", "OK" if os.environ.get("ANTHROPIC_API_KEY") else "YOK")
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     with open("scripts/prompt.txt", "r", encoding="utf-8") as f:
         prompt = "Bugun " + TODAY + ". " + f.read().replace("TARIH", TODAY)
+    print("Prompt gonderiliyor...")
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=4000,
-        messages=[{"role": "user", "content": prompt}]
+        max_tokens=2000,
+        messages=[{"role": "user", "content": prompt}],
+        timeout=60
     )
+    print("Yanit alindi.")
     raw = message.content[0].text
-    print("Ham yanit:", raw[:200])
+    print("Ham yanit:", raw[:500])
     raw = extract_json(raw)
     new_data = json.loads(raw)
     new_updates = new_data.get("updates", [])
