@@ -4,51 +4,34 @@
     {
       "id": "2026-07-05-001",
       "date": "2026-07-05",
-      "category": "Kurumsal Sosyal Sorumluluk",
-      "categoryIcon": "🌱",
-      "title": "TCFD Raporlaması Zorunluluğu Genişletildi",
-      "summary": "Türkiye Finansal İstikrar Komitesi, iklim ile ilgili finansal risk raporlamasını daha geniş bir şirket yelpazesine uygulamaya başlamıştır. Bu düzenleme, halka açık şirketler ve belirli büyüklükteki özel işletmeleri kapsamaktadır. 2027 yılından itibaren uyum zorunlu hale gelecektir.",
-      "source": "Türkiye Finansal İstikrar Komitesi",
-      "sourceUrl": "https://www.tcmb.gov.tr",
+      "category": "Enerji Verimliliği",
+      "categoryIcon": "⚡",
+      "title": "Binalarda Enerji Performansı Standartları Güncellenmesi",
+      "summary": "Türkiye'de yeni bina enerji performans standartları 2026 Temmuz'dan itibaren yürürlüğe girmektedir. Standartlar ticari ve konut binalarında enerji verimliliği gereksinimlerini %15 artırmaktadır. Uyum süresi 18 ay olarak belirlenmiştir.",
+      "source": "Türkiye Cumhuriyet Çevre ve Orman Bakanlığı",
+      "sourceUrl": "",
       "tags": [
-        "iklim riski",
-        "finansal raporlama",
-        "TCFD",
-        "zorunluluk"
+        "enerji",
+        "bina",
+        "verimlilik",
+        "uyum"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-05-002",
       "date": "2026-07-05",
-      "category": "Çevre Yönetimi",
+      "category": "Sirküler Ekonomi",
       "categoryIcon": "♻️",
-      "title": "Plastik Ambalaj Vergi Oranı Artırılması",
-      "summary": "Çevre, Orman ve Su İşleri Bakanlığı, tek kullanımlık plastik ambalaj ürünlerine uygulanan verginin oranını %25 artırmıştır. Bu uygulamaya 1 Eylül 2026'da başlanacaktır. Önlem, plastik atık azaltma hedeflerine katkı sağlamayı amaçlamaktadır.",
-      "source": "Çevre, Orman ve Su İşleri Bakanlığı",
-      "sourceUrl": "https://www.ormansu.gov.tr",
+      "title": "Elektrik ve Elektronik Ürün Geri Dönüşüm Oranı Artışı",
+      "summary": "WEEE direktifi kapsamında elektrik-elektronik atık geri dönüşüm hedefi 2026'da %65'e yükseltilmiştir. Üreticiler ve ithalatçılar yeni hedeflere uyumu sağlamak zorundadır. İlk kontrol Aralık 2026'da yapılacaktır.",
+      "source": "T.C. Sanayi ve Teknoloji Bakanlığı",
+      "sourceUrl": "",
       "tags": [
-        "plastik vergi",
-        "çevre",
-        "ambalaj",
-        "atık yönetimi"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-07-05-003",
-      "date": "2026-07-05",
-      "category": "Enerji Verimliliği",
-      "categoryIcon": "⚡",
-      "title": "Endüstri 4.0 ve Enerji Dönüşümü Teşvik Programı",
-      "summary": "Sanayi ve Teknoloji Bakanlığı, enerji verimliliğine yatırım yapan işletmelere vergi indirimi ve hibe desteği sunacak yeni bir teşvik programını başlatmıştır. Program, yenilenebilir enerji ve akıllı teknoloji entegrasyonunu desteklemektedir.",
-      "source": "Sanayi ve Teknoloji Bakanlığı",
-      "sourceUrl": "https://www.sanayi.gov.tr",
-      "tags": [
-        "enerji verimliliği",
-        "teşvik",
-        "endüstri 4.0",
-        "yenilenebilir enerji"
+        "geri dönüşüm",
+        "elektronik",
+        "atık",
+        "sirküler"
       ],
       "importance": "high"
     },
