@@ -4,34 +4,51 @@
     {
       "id": "2026-07-05-001",
       "date": "2026-07-05",
-      "category": "Enerji Verimliliği",
-      "categoryIcon": "⚡",
-      "title": "Binalarda Enerji Performansı Standartları Güncellenmesi",
-      "summary": "Türkiye'de yeni bina enerji performans standartları 2026 Temmuz'dan itibaren yürürlüğe girmektedir. Standartlar ticari ve konut binalarında enerji verimliliği gereksinimlerini %15 artırmaktadır. Uyum süresi 18 ay olarak belirlenmiştir.",
-      "source": "Türkiye Cumhuriyet Çevre ve Orman Bakanlığı",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları Güncellenmesi",
+      "summary": "Borsa İstanbul (BIST), 2026 yılı için kurumsal yönetim ilkeleri ve sürdürülebilirlik raporlama standartlarında yeni güncelleme yayınlamıştır. Güncellemeler, uluslararası standartlarla uyum sağlamayı ve raporlama kalitesini artırmayı hedeflemektedir.",
+      "source": "Borsa İstanbul",
       "sourceUrl": "",
       "tags": [
-        "enerji",
-        "bina",
-        "verimlilik",
-        "uyum"
+        "raporlama",
+        "BIST",
+        "kurumsal yönetim",
+        "standartlar"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-05-002",
       "date": "2026-07-05",
-      "category": "Sirküler Ekonomi",
-      "categoryIcon": "♻️",
-      "title": "Elektrik ve Elektronik Ürün Geri Dönüşüm Oranı Artışı",
-      "summary": "WEEE direktifi kapsamında elektrik-elektronik atık geri dönüşüm hedefi 2026'da %65'e yükseltilmiştir. Üreticiler ve ithalatçılar yeni hedeflere uyumu sağlamak zorundadır. İlk kontrol Aralık 2026'da yapılacaktır.",
-      "source": "T.C. Sanayi ve Teknoloji Bakanlığı",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye Karbon Ticareti Sistemi Yeni Faz Başlangıcı",
+      "summary": "Türkiye'nin ulusal karbon ticareti sisteminin yeni faz uygulaması başlamıştır. Daha fazla sektörün sisteme dahil edilmesi ve emisyon azaltım hedeflerinin güçlendirilmesi öngörülmektedir.",
+      "source": "Çevre, Orman ve Su İşleri Bakanlığı",
       "sourceUrl": "",
       "tags": [
-        "geri dönüşüm",
-        "elektronik",
-        "atık",
-        "sirküler"
+        "karbon ticareti",
+        "emisyon",
+        "iklim değişikliği",
+        "Türkiye"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-05-003",
+      "date": "2026-07-05",
+      "category": "Ambalaj & Atık",
+      "categoryIcon": "♻️",
+      "title": "Tek Kullanımlık Plastik Yasağı Kapsamı Genişletildi",
+      "summary": "Türkiye'de tek kullanımlık plastik ürünlere yönelik yasaklar genişletilmiş, yeni ürün kategorileri listeye eklenmiştir. Şirketlerin uyum süreleri belirlenmiş ve geçiş dönemleri açıklanmıştır.",
+      "source": "Çevre, Orman ve Su İşleri Bakanlığı",
+      "sourceUrl": "",
+      "tags": [
+        "plastik",
+        "tek kullanımlık",
+        "ambalaj",
+        "yasaklar"
       ],
       "importance": "high"
     },
