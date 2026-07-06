@@ -5,31 +5,31 @@
       "id": "2026-07-06-001",
       "date": "2026-07-06",
       "category": "Raporlama",
-      "categoryIcon": "📋",
-      "title": "Türkiye Kurumsal Sürdürülebilirlik Raporlama Standartları Güncelleme",
-      "summary": "TKYD tarafından 2026 yılı için kurumsal sürdürülebilirlik raporlama kılavuzu güncellenmiştir. Rapor kapsamında ESG verilerinin standardize edilmesi ve karşılaştırılabilirlik artırılması amaçlanmaktadır. Tüm halka açık şirketlerin 2026 yıl sonu raporlarında yeni standartları uygulaması zorunludur.",
-      "source": "Türkiye Kurumsal Yönetim Derneği",
-      "sourceUrl": "",
+      "categoryIcon": "📊",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları Güncellenmesi",
+      "summary": "Türkiye Muhasebe Standartları Kurulu (TMSK) tarafından 2026 yılı için sürdürülebilirlik raporlama standartları güncellenmiştir. Şirketler artık CSRD uyumlu raporlama formatını kullanmak zorundadır. Yeni standartlar Ağustos 2026'dan itibaren uygulanacaktır.",
+      "source": "TMSK Resmi Sitesi",
+      "sourceUrl": "https://www.tmsk.org.tr",
       "tags": [
-        "TKYD",
-        "ESG",
         "raporlama",
-        "standart"
+        "standartlar",
+        "CSRD",
+        "uyum"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-06-002",
       "date": "2026-07-06",
-      "category": "Karbon & İklim",
+      "category": "Karbon & Iklim",
       "categoryIcon": "🌍",
-      "title": "Türkiye 2053 Karbon Nötr Hedefi İçin Ara Hedefler Belirlendi",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 2053 karbon nörlüğü hedefine ulaşmak için 2030 ve 2040 ara hedeflerini resmiyet kazandırmıştır. Endüstriyel sektörler için zorunlu emisyon azaltım yükümlülükleri yürürlüğe girmektedir.",
-      "source": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
-      "sourceUrl": "",
+      "title": "Türkiye Karbon Piyasası 2026 Fiyatı Açıklandı",
+      "summary": "Enerji Piyasası Düzenleme Kurulu (EPDK) 2026 yılı karbon kredi fiyatlarını 450 TL/ton olarak belirlenmiştir. Endüstriyel tesisler için yeni emisyon hedefleri yayımlanmıştır.",
+      "source": "EPDK",
+      "sourceUrl": "https://www.epdk.gov.tr",
       "tags": [
-        "karbon nörlük",
-        "2053",
+        "karbon",
+        "fiyatlandırma",
         "emisyon",
         "iklim"
       ],
@@ -40,31 +40,32 @@
       "date": "2026-07-06",
       "category": "Ambalaj & Atık",
       "categoryIcon": "♻️",
-      "title": "Plastik Ambalaj Yasağı Yönetmeliği Genişleme",
-      "summary": "Tek kullanımlı plastik ambalajların yasaklanmasına ilişkin yönetmelik kapsamı genişletilmiş, yeni ürün kategorileri listeye eklenmiştir. İthalatçı ve üreticiler 2026 Aralık ayı sonuna kadar uyum sağlamalıdır.",
-      "source": "Çevre Bakanlığı",
-      "sourceUrl": "",
+      "title": "Plastik Ambalaj Yasağı Kapsamı Genişletildi",
+      "summary": "Çevre, Orman ve Su Yönetimi Bakanlığı tek kullanımlık plastiklere ilişkin yasağı genişletmiştir. Yeni kısıtlamalar Temmuz 2026'dan itibaren geçerlidir. Atık yönetimi sorumluluğu üreticilere daha da aktarılmıştır.",
+      "source": "T.C. Çevre, Orman ve Su Yönetimi Bakanlığı",
+      "sourceUrl": "https://www.csb.gov.tr",
       "tags": [
         "plastik",
         "ambalaj",
-        "yasak",
-        "atık"
+        "atık",
+        "yasak"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-06-004",
       "date": "2026-07-06",
-      "category": "Tedarik Zinciri",
-      "categoryIcon": "🔗",
-      "title": "Türkiye İş ve İnsan Hakları Debiyligence Rehberi Yayınlandı",
-      "summary": "Kamu ve özel sektör kuruluşları için tedarik zinciri boyunca insan hakları ve çalışma şartlarının izlenmesi konusunda yeni kılavuz yayınlanmıştır. Rehberin uygulanması büyük şirketler için 2027'den itibaren zorunlu olacaktır.",
-      "source": "Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "sourceUrl": "",
+      "category": "AB Regulasyonlari",
+      "categoryIcon": "🇪🇺",
+      "title": "CSDDD Yönetmeliği Türk İhracatçılar İçin Zorunlu Hale Geldi",
+      "summary": "AB'nin Kurumsal Sürdürülebilirlik Direktifi (CSDDD) Türkiye'ye ihracat yapan şirketler için 2026 Temmuzundan itibaren uygulanmaya başlamıştır. Tedarik zinciri özeni raporlaması artık zorunludur.",
+      "source": "AB Resmi Yayın Organı",
+      "sourceUrl": "https://eur-lex.europa.eu",
       "tags": [
-        "tedarik zinciri",
-        "insan hakları",
-        "debiyligence"
+        "CSDDD",
+        "AB",
+        "ihracat",
+        "uyum"
       ],
       "importance": "high"
     }
