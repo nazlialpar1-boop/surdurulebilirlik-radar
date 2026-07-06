@@ -1,1 +1,72 @@
-{"lastUpdated": "2026-07-06", "updates": []}
+{
+  "lastUpdated": "2026-07-06",
+  "updates": [
+    {
+      "id": "2026-07-06-001",
+      "date": "2026-07-06",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye Kurumsal Sürdürülebilirlik Raporlama Standartları Güncelleme",
+      "summary": "TKYD tarafından 2026 yılı için kurumsal sürdürülebilirlik raporlama kılavuzu güncellenmiştir. Rapor kapsamında ESG verilerinin standardize edilmesi ve karşılaştırılabilirlik artırılması amaçlanmaktadır. Tüm halka açık şirketlerin 2026 yıl sonu raporlarında yeni standartları uygulaması zorunludur.",
+      "source": "Türkiye Kurumsal Yönetim Derneği",
+      "sourceUrl": "",
+      "tags": [
+        "TKYD",
+        "ESG",
+        "raporlama",
+        "standart"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-002",
+      "date": "2026-07-06",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye 2053 Karbon Nötr Hedefi İçin Ara Hedefler Belirlendi",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 2053 karbon nörlüğü hedefine ulaşmak için 2030 ve 2040 ara hedeflerini resmiyet kazandırmıştır. Endüstriyel sektörler için zorunlu emisyon azaltım yükümlülükleri yürürlüğe girmektedir.",
+      "source": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "sourceUrl": "",
+      "tags": [
+        "karbon nörlük",
+        "2053",
+        "emisyon",
+        "iklim"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-003",
+      "date": "2026-07-06",
+      "category": "Ambalaj & Atık",
+      "categoryIcon": "♻️",
+      "title": "Plastik Ambalaj Yasağı Yönetmeliği Genişleme",
+      "summary": "Tek kullanımlı plastik ambalajların yasaklanmasına ilişkin yönetmelik kapsamı genişletilmiş, yeni ürün kategorileri listeye eklenmiştir. İthalatçı ve üreticiler 2026 Aralık ayı sonuna kadar uyum sağlamalıdır.",
+      "source": "Çevre Bakanlığı",
+      "sourceUrl": "",
+      "tags": [
+        "plastik",
+        "ambalaj",
+        "yasak",
+        "atık"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-004",
+      "date": "2026-07-06",
+      "category": "Tedarik Zinciri",
+      "categoryIcon": "🔗",
+      "title": "Türkiye İş ve İnsan Hakları Debiyligence Rehberi Yayınlandı",
+      "summary": "Kamu ve özel sektör kuruluşları için tedarik zinciri boyunca insan hakları ve çalışma şartlarının izlenmesi konusunda yeni kılavuz yayınlanmıştır. Rehberin uygulanması büyük şirketler için 2027'den itibaren zorunlu olacaktır.",
+      "source": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "sourceUrl": "",
+      "tags": [
+        "tedarik zinciri",
+        "insan hakları",
+        "debiyligence"
+      ],
+      "importance": "high"
+    }
+  ]
+}
