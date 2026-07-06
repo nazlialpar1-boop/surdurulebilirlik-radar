@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-06",
   "updates": [
+    {
+      "id": "2026-07-06-001",
+      "date": "2026-07-06",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları Güncellemesi",
+      "summary": "Türkiye'de kurumsal sürdürülebilirlik raporlaması için yeni standartlar yürürlüğe girmiştir. ISSB standardlarına uyum zorunlu hale getirilmiştir. 2026 yılı sonuna kadar tüm halka açık şirketlerin yeni format ile rapor sunması gerekmektedir.",
+      "source": "Sermaye Piyasası Kurulu",
+      "sourceUrl": "",
+      "tags": [
+        "ISSB",
+        "raporlama",
+        "standart"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-002",
+      "date": "2026-07-06",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye Karbon Kredisi Sistemi Genişletilmesi",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası tarafından karbon kredisi piyasası genişletme programı açıklanmıştır. KOBİ'lerin de sisteme katılım imkanı sağlanmaktadır. Emisyon azaltım hedefleri 2030 yılına kadar %35 olarak belirlenmiştir.",
+      "source": "TCMB",
+      "sourceUrl": "",
+      "tags": [
+        "karbon",
+        "emisyon",
+        "KOBI"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-003",
+      "date": "2026-07-06",
+      "category": "Ambalaj & Atık",
+      "categoryIcon": "♻️",
+      "title": "Plastik Ambalaj Yasağı Kapsamı Genişletildi",
+      "summary": "Türkiye'de tek kullanımlık plastik ambalaj yasağı gıda sektöründen tekstil ve kozmetik sektörüne de genişletilmiştir. İşletmelerin 31 Aralık 2026'ya kadar geçiş yapması zorunludur. Cezai müeyyideler belirlenen tarihi geçenler için uygulanacaktır.",
+      "source": "Çevre, Orman ve Su Yönetimi Bakanlığı",
+      "sourceUrl": "",
+      "tags": [
+        "plastik",
+        "ambalaj",
+        "yasak"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-004",
+      "date": "2026-07-06",
+      "category": "Enerji",
+      "categoryIcon": "⚡",
+      "title": "Yenilenebilir Enerji Zorunluluğu Artırıldı",
+      "summary": "Büyük endüstriyel işletmeler için yenilenebilir enerji kullanım oranı %40'a yükseltilmiştir. Hedef 2026 sonuna kadar ulaşılması gereken seviyedir. Uyum sağlamayan işletmelere yönelik cezalar iki katına çıkarılmıştır.",
+      "source": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "sourceUrl": "",
+      "tags": [
+        "yenilenebilir",
+        "enerji",
+        "endüstri"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-05-001",
       "date": "2026-07-05",
