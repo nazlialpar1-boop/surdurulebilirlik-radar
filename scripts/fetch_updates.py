@@ -58,17 +58,16 @@ def fetch_updates():
     queries = [
         "Türkiye sürdürülebilirlik çevre regülasyon 2026",
         "Türkiye ESG raporlama iklim yasa 2026",
-        "Türkiye ambalaj atık enerji mevzuat 2026"
     ]
     articles = []
     for q in queries:
         try:
             result = tavily_search(q, tavily_key)
-            for r in result.get("results", []):
+            for r in result.get("results", [])[:5]:
                 articles.append({
                     "title": r.get("title", ""),
                     "url": r.get("url", ""),
-                    "content": r.get("content", "")[:300],
+                    "content": r.get("content", "")[:150],
                     "source": r.get("url", "").split("/")[2] if r.get("url") else ""
                 })
         except Exception as e:
