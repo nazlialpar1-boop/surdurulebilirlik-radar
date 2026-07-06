@@ -7,13 +7,13 @@
       "category": "Raporlama",
       "categoryIcon": "📋",
       "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
-      "summary": "2024 yılında ilk kez Türkiye Sürdürülebilirlik Raporlama Standartları'na (TSRS) uygun raporlama yapan işletmeler için düzenlemeler hayata geçirilmiştir. Türkiye'de sürdürülebilirlik raporlamasında yeni standartlar uygulanmaya başlanmıştır.",
-      "source": "ESIN Avukatlık",
+      "summary": "2024 yılında ilk kez Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) uygun raporlama yapan işletmeler için yeni düzenlemeler hayata geçmiştir. Bu düzenlemeler işletmelerin raporlama yükümlülüklerini belirlemektedir.",
+      "source": "ESIN Avukatlık Ortaklığı",
       "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
       "tags": [
         "TSRS",
         "raporlama",
-        "mevzuat"
+        "düzenleme"
       ],
       "importance": "high"
     },
@@ -23,13 +23,13 @@
       "category": "Karbon & İklim",
       "categoryIcon": "🌍",
       "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Duraklar",
-      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı bir faza işaret etmektedir. Türkiye'nin karbon regülasyonlarında yeni bir dönemi başlatıyor.",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı kritik bir faz olarak öne çıkmaktadır.",
       "source": "Zorlu Holding",
       "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
       "tags": [
         "SKDM",
         "karbon",
-        "mali yükümlülük"
+        "regülasyon"
       ],
       "importance": "high"
     },
@@ -38,13 +38,13 @@
       "date": "2026-07-06",
       "category": "Tedarik Zinciri",
       "categoryIcon": "🔗",
-      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya | 2026 Perspektifi",
-      "summary": "Tekstil sektöründe sürdürülebilirlik baskısı artarken, kimya endüstrisi ürün performansının ötesinde çevre dostu çözümlere odaklanmaktadır. 2026 yılında endüstriyel kimya uygulamalarında yeni standartlar beklenmektedir.",
-      "source": "Kimya ve Harita Teknisyenleri Odası Türkiye",
+      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya 2026 Perspektifi",
+      "summary": "Tekstil ve endüstri sektöründe sürdürülebilirlik baskısı artarken, kimya sektörü yalnızca ürün performansı değil aynı zamanda çevre dostu çözümlere odaklanmaktadır.",
+      "source": "CHT Türkiye",
       "sourceUrl": "https://chtturkiye.com/tekstil-ve-endustride-surdurulebilir-kimya-2026",
       "tags": [
         "tekstil",
-        "sürdürülebilir kimya",
+        "kimya",
         "endüstri"
       ],
       "importance": "medium"
@@ -52,50 +52,50 @@
     {
       "id": "2026-07-06-004",
       "date": "2026-07-06",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
-      "summary": "2026'da karbon maliyetleri başlamakta ve 2027'de Türkiye Emisyon Ticaret Sistemi devreye girmektedir. Türkiye'nin iklim hedefleri ve AB uyum zorunlulukları uygulanmaya başlanıyor.",
-      "source": "YouTube",
-      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Verilerle İş Dünyasının Sürdürülebilirlik Yolculuğu",
+      "summary": "Sustainable Brands Türkiye 2026 konferansı COP31 gündemini taşıyarak iklim, regülasyon ve dönüşüm dinamiklerini iş dünyası perspektifinden incelemektedir.",
+      "source": "Sustainable Brands Türkiye",
+      "sourceUrl": "https://www.instagram.com/p/DYR7EABjT82",
       "tags": [
-        "karbon maliyetleri",
-        "emisyon",
-        "iklim hedefleri"
+        "konferans",
+        "COP31",
+        "iklim"
       ],
-      "importance": "high"
+      "importance": "medium"
     },
     {
       "id": "2026-07-06-005",
       "date": "2026-07-06",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Hedeflerini Uygulamaya Taşıma Zamanı",
-      "summary": "UN Global Compact Türkiye, Türkiye'nin en kapsayıcı sürdürülebilirlik hedefleri doğrultusunda iklim eylem planlarının uygulamaya alınması gerektiğini vurgulamaktadır.",
-      "source": "LinkedIn",
-      "sourceUrl": "https://tr.linkedin.com/pulse/iklim-hedeflerini-uygulamaya-ta%C5%9F%C4%B1ma-zaman%C4%B1-irkuf",
+      "category": "AB Regulasyonları",
+      "categoryIcon": "🇪🇺",
+      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem",
+      "summary": "AB uyumunun zorunlu hale geldiği yeni sürdürülebilirlik döneminde işletmelere yol haritası sunulmaktadır. Türkiye'de sürdürülebilirlik raporlaması zorunlu hale gelmektedir.",
+      "source": "Periskop",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
       "tags": [
-        "iklim",
-        "UN Global Compact",
-        "hedefler"
+        "AB uyumu",
+        "zorunlu raporlama"
       ],
-      "importance": "medium"
+      "importance": "high"
     },
     {
       "id": "2026-07-06-006",
       "date": "2026-07-06",
       "category": "Raporlama",
       "categoryIcon": "📋",
-      "title": "ÇSY Bülteni 2026 1. Çeyrek",
-      "summary": "Erdem&Erdem Avukatlık tarafından yayınlanan 2026 ilk çeyrek bülteninde Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulanması konusu ele alınmaktadır.",
-      "source": "Erdem&Erdem Avukatlık",
-      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "title": "Sürdürülebilirlik Raporlama Türkiye 2026: TSRS, GRI, CSRD ve ESG Rehberi",
+      "summary": "TSRS nedir, zorunlu olanlar kimlerdir ve 2026 eşik değerleri nelerdir sorularına cevap veren kapsamlı rehber. GRI, CSRD, ESG ve CDP farklarını ve adım adım raporlama sürecini açıklamaktadır.",
+      "source": "EUROPECARBON",
+      "sourceUrl": "https://www.europecarbon.com/surdurulebilirlik-raporlama-turkiye-2026",
       "tags": [
         "TSRS",
-        "raporlama",
-        "bülten"
+        "GRI",
+        "CSRD",
+        "ESG"
       ],
-      "importance": "medium"
+      "importance": "high"
     },
     {
       "id": "2026-07-06-007",
@@ -103,13 +103,12 @@
       "category": "Karbon & İklim",
       "categoryIcon": "🌍",
       "title": "Türkiye İklim Kanunu",
-      "summary": "Türkiye'nin iklim mevzuatı kapsamında karbon ayak izi hesaplama ve raporlama sistemleri uygulamaya konmuştur. İklim kanunu ile kurumsal ve ürün bazlı karbon hesaplamaları zorunlu hale gelmiştir.",
+      "summary": "Türkiye Cumhuriyeti tarafından çıkarılan İklim Kanunu çerçevesinde karbon ayak izi hesaplamaları, ürün karbon ayak izi danışmanlığı ve ilgili mevzuatlar hakkında bilgiler sunulmaktadır.",
       "source": "CASEM ESG",
       "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
       "tags": [
-        "İklim Kanunu",
-        "karbon ayak izi",
-        "mevzuat"
+        "iklim kanunu",
+        "karbon ayak izi"
       ],
       "importance": "high"
     },
@@ -118,14 +117,13 @@
       "date": "2026-07-06",
       "category": "Karbon & İklim",
       "categoryIcon": "🌍",
-      "title": "İklim Kanunu Nedir? Türkiye'de İklim Yasası Nasıl Uygulanıyor?",
-      "summary": "Türkiye'de İklim Kanunu çerçevesinde Sınırda Karbon Düzenleme Mekanizması (SKDM) uygulanmakta ve kurumsal karbon ayak izi hesaplama zorunlu hale gelmektedir.",
-      "source": "Cimpact Pro",
-      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulaniyor",
+      "title": "Türkiye Emisyon Ticaret Sistemi'nde 2026 İşlem Bedelleri Açıklandı",
+      "summary": "Türkiye Emisyon Ticaret Sistemi kapsamında 2026 yılı işlem bedelleri resmi olarak açıklanmıştır. Küresel iklim mücadelesi çerçevesinde yoksul ülkelere 100 milyar dolar yardım hedefi ele alınmaktadır.",
+      "source": "ÇEVKO",
+      "sourceUrl": "https://www.cevko.org.tr/haber/turkiye-emisyon-ticaret-sisteminde-2026-islem-bedelleri-aciklandi",
       "tags": [
-        "İklim Kanunu",
-        "SKDM",
-        "karbon"
+        "emisyon ticaret sistemi",
+        "işlem bedelleri"
       ],
       "importance": "high"
     },
@@ -134,16 +132,31 @@
       "date": "2026-07-06",
       "category": "Raporlama",
       "categoryIcon": "📋",
-      "title": "Türkiye Sürdürülebilirlik Standartları ile Uyumlu Raporlama",
-      "summary": "İşletmelerin çevresel, sosyal ve yönetişim (ESG) performanslarını Türkiye Sürdürülebilirlik Standartları'na uygun olarak şeffaf bir şekilde raporlamaları gerekmektedir.",
-      "source": "S-Green",
-      "sourceUrl": "https://sgreen.com.tr/hizmetlerimiz/turkiye-surdurulebilirlik-standartlari-ile-uyumlu-raporlama",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları Uygulaması Zorunlu Hale Getirildi",
+      "summary": "T.C. Ticaret Bakanlığı tarafından Türkiye Sürdürülebilirlik Raporlama Standartları uygulaması belli şartları sağlayan işletmeler için zorunlu hale getirilmiştir. AB SKDM ve ilgili teknik raporlar da açıklanmıştır.",
+      "source": "T.C. Ticaret Bakanlığı",
+      "sourceUrl": "https://ticaret.gov.tr/dis-iliskiler/yesil-mutabakat/duyurular/turkiye-surdurulebilirlik-raporlama-standartlari-ve-uygulama-kapsamina-iliskin-kurul-kararlari-resmi-gazetede-yayimlanmis-ve-belli-sartlari-saglayan-isletmeler-icin-surdurulebilirlik-raporlamasi-zorunlu-hale-getirilmistir",
       "tags": [
         "TSRS",
-        "ESG",
-        "raporlama"
+        "zorunlu raporlama",
+        "resmi gazetesi"
       ],
       "importance": "high"
+    },
+    {
+      "id": "2026-07-06-010",
+      "date": "2026-07-06",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Küresel İklim Değişikliği ve Sürdürülebilirlik Raporlaması",
+      "summary": "Seller, kuraklık riskleri, orman yangınları ve buzulların erimesi gibi iklim krizinin etkileriyle küresel iklim değişikliği ve sürdürülebilirlik raporlamasının önemi vurgulanmaktadır.",
+      "source": "ESG Turkey",
+      "sourceUrl": "https://www.esgturkey.com/kuresel-iklim-degisikligi-ve-surdurulebilirlik-raporlamasi",
+      "tags": [
+        "iklim değişikliği",
+        "raporlama"
+      ],
+      "importance": "medium"
     }
   ]
 }
