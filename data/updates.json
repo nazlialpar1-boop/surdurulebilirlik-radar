@@ -5,67 +5,143 @@
       "id": "2026-07-06-001",
       "date": "2026-07-06",
       "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları Güncellenmesi",
-      "summary": "Türkiye Muhasebe Standartları Kurulu (TMSK) tarafından 2026 yılı için sürdürülebilirlik raporlama standartları güncellenmiştir. Şirketler artık CSRD uyumlu raporlama formatını kullanmak zorundadır. Yeni standartlar Ağustos 2026'dan itibaren uygulanacaktır.",
-      "source": "TMSK Resmi Sitesi",
-      "sourceUrl": "https://www.tmsk.org.tr",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "2024 yılında ilk kez Türkiye Sürdürülebilirlik Raporlama Standartları'na (TSRS) uygun raporlama yapan işletmeler için düzenlemeler hayata geçirilmiştir. Türkiye'de sürdürülebilirlik raporlamasında yeni standartlar uygulanmaya başlanmıştır.",
+      "source": "ESIN Avukatlık",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
       "tags": [
+        "TSRS",
         "raporlama",
-        "standartlar",
-        "CSRD",
-        "uyum"
+        "mevzuat"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-06-002",
       "date": "2026-07-06",
-      "category": "Karbon & Iklim",
+      "category": "Karbon & İklim",
       "categoryIcon": "🌍",
-      "title": "Türkiye Karbon Piyasası 2026 Fiyatı Açıklandı",
-      "summary": "Enerji Piyasası Düzenleme Kurulu (EPDK) 2026 yılı karbon kredi fiyatlarını 450 TL/ton olarak belirlenmiştir. Endüstriyel tesisler için yeni emisyon hedefleri yayımlanmıştır.",
-      "source": "EPDK",
-      "sourceUrl": "https://www.epdk.gov.tr",
+      "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Duraklar",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı bir faza işaret etmektedir. Türkiye'nin karbon regülasyonlarında yeni bir dönemi başlatıyor.",
+      "source": "Zorlu Holding",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
       "tags": [
+        "SKDM",
         "karbon",
-        "fiyatlandırma",
-        "emisyon",
-        "iklim"
+        "mali yükümlülük"
       ],
       "importance": "high"
     },
     {
       "id": "2026-07-06-003",
       "date": "2026-07-06",
-      "category": "Ambalaj & Atık",
-      "categoryIcon": "♻️",
-      "title": "Plastik Ambalaj Yasağı Kapsamı Genişletildi",
-      "summary": "Çevre, Orman ve Su Yönetimi Bakanlığı tek kullanımlık plastiklere ilişkin yasağı genişletmiştir. Yeni kısıtlamalar Temmuz 2026'dan itibaren geçerlidir. Atık yönetimi sorumluluğu üreticilere daha da aktarılmıştır.",
-      "source": "T.C. Çevre, Orman ve Su Yönetimi Bakanlığı",
-      "sourceUrl": "https://www.csb.gov.tr",
+      "category": "Tedarik Zinciri",
+      "categoryIcon": "🔗",
+      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya | 2026 Perspektifi",
+      "summary": "Tekstil sektöründe sürdürülebilirlik baskısı artarken, kimya endüstrisi ürün performansının ötesinde çevre dostu çözümlere odaklanmaktadır. 2026 yılında endüstriyel kimya uygulamalarında yeni standartlar beklenmektedir.",
+      "source": "Kimya ve Harita Teknisyenleri Odası Türkiye",
+      "sourceUrl": "https://chtturkiye.com/tekstil-ve-endustride-surdurulebilir-kimya-2026",
       "tags": [
-        "plastik",
-        "ambalaj",
-        "atık",
-        "yasak"
+        "tekstil",
+        "sürdürülebilir kimya",
+        "endüstri"
       ],
-      "importance": "high"
+      "importance": "medium"
     },
     {
       "id": "2026-07-06-004",
       "date": "2026-07-06",
-      "category": "AB Regulasyonlari",
-      "categoryIcon": "🇪🇺",
-      "title": "CSDDD Yönetmeliği Türk İhracatçılar İçin Zorunlu Hale Geldi",
-      "summary": "AB'nin Kurumsal Sürdürülebilirlik Direktifi (CSDDD) Türkiye'ye ihracat yapan şirketler için 2026 Temmuzundan itibaren uygulanmaya başlamıştır. Tedarik zinciri özeni raporlaması artık zorunludur.",
-      "source": "AB Resmi Yayın Organı",
-      "sourceUrl": "https://eur-lex.europa.eu",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
+      "summary": "2026'da karbon maliyetleri başlamakta ve 2027'de Türkiye Emisyon Ticaret Sistemi devreye girmektedir. Türkiye'nin iklim hedefleri ve AB uyum zorunlulukları uygulanmaya başlanıyor.",
+      "source": "YouTube",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
       "tags": [
-        "CSDDD",
-        "AB",
-        "ihracat",
-        "uyum"
+        "karbon maliyetleri",
+        "emisyon",
+        "iklim hedefleri"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-005",
+      "date": "2026-07-06",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Hedeflerini Uygulamaya Taşıma Zamanı",
+      "summary": "UN Global Compact Türkiye, Türkiye'nin en kapsayıcı sürdürülebilirlik hedefleri doğrultusunda iklim eylem planlarının uygulamaya alınması gerektiğini vurgulamaktadır.",
+      "source": "LinkedIn",
+      "sourceUrl": "https://tr.linkedin.com/pulse/iklim-hedeflerini-uygulamaya-ta%C5%9F%C4%B1ma-zaman%C4%B1-irkuf",
+      "tags": [
+        "iklim",
+        "UN Global Compact",
+        "hedefler"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-06-006",
+      "date": "2026-07-06",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek",
+      "summary": "Erdem&Erdem Avukatlık tarafından yayınlanan 2026 ilk çeyrek bülteninde Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulanması konusu ele alınmaktadır.",
+      "source": "Erdem&Erdem Avukatlık",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "bülten"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-06-007",
+      "date": "2026-07-06",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu",
+      "summary": "Türkiye'nin iklim mevzuatı kapsamında karbon ayak izi hesaplama ve raporlama sistemleri uygulamaya konmuştur. İklim kanunu ile kurumsal ve ürün bazlı karbon hesaplamaları zorunlu hale gelmiştir.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "İklim Kanunu",
+        "karbon ayak izi",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-008",
+      "date": "2026-07-06",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Kanunu Nedir? Türkiye'de İklim Yasası Nasıl Uygulanıyor?",
+      "summary": "Türkiye'de İklim Kanunu çerçevesinde Sınırda Karbon Düzenleme Mekanizması (SKDM) uygulanmakta ve kurumsal karbon ayak izi hesaplama zorunlu hale gelmektedir.",
+      "source": "Cimpact Pro",
+      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulaniyor",
+      "tags": [
+        "İklim Kanunu",
+        "SKDM",
+        "karbon"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-06-009",
+      "date": "2026-07-06",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye Sürdürülebilirlik Standartları ile Uyumlu Raporlama",
+      "summary": "İşletmelerin çevresel, sosyal ve yönetişim (ESG) performanslarını Türkiye Sürdürülebilirlik Standartları'na uygun olarak şeffaf bir şekilde raporlamaları gerekmektedir.",
+      "source": "S-Green",
+      "sourceUrl": "https://sgreen.com.tr/hizmetlerimiz/turkiye-surdurulebilirlik-standartlari-ile-uyumlu-raporlama",
+      "tags": [
+        "TSRS",
+        "ESG",
+        "raporlama"
       ],
       "importance": "high"
     }
