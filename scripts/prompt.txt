@@ -1,2 +1,8 @@
-Turkiye surdurulebilirlik regulasyonlari JSON guncelleme ver. Sadece JSON don, baska hicbir sey yazma. Kategoriler SADECE su listeden secilmeli: Raporlama, Karbon & Iklim, Ambalaj & Atik, Orman & Biyocesitlilik, Su, Enerji, Tedarik Zinciri, Sirket Haberleri, AB Regulasyonlari, Finans & Taksonomi. Format:
-{"updates": [{"id": "TARIH-001", "date": "TARIH", "category": "kategori adi", "categoryIcon": "emoji", "title": "baslik", "summary": "2-3 cumle aciklama", "source": "kaynak", "sourceUrl": "", "tags": ["etiket"], "importance": "high"}]}
+  Turkiye surdurulebilirlik regulasyonlari JSON guncelleme ver. Sadece JSON don,
+  baska hicbir sey yazma. Kategoriler SADECE su listeden secilmeli: Raporlama,
+  Karbon & Iklim, Ambalaj & Atik, Orman & Biyocesitlilik, Su, Enerji, Tedarik
+  Zinciri, Sirket Haberleri, AB Regulasyonlari, Finans & Taksonomi. Format:
+  {"updates": [{"id": "TARIH-001", "date": "TARIH", "category": "kategori adi",
+  "categoryIcon": "emoji", "title": "baslik", "summary": "2-3 cumle aciklama",
+  "source": "kaynak adi", "sourceUrl": "https://kaynak-url", "tags": ["etiket"],
+  "importance": "high"}]}
