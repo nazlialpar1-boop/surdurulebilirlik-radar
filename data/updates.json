@@ -1,6 +1,167 @@
 {
-  "lastUpdated": "2026-07-09",
+  "lastUpdated": "2026-07-10",
   "updates": [
+    {
+      "id": "2026-07-10-001",
+      "date": "2026-07-10",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) kapsamında 2024 yılından itibaren işletmelerin raporlama yükümlülükleri güncellenmektedir. Yeni düzenlemeler sürdürülebilirlik raporlamasında standartlaştırma sağlamaktadır.",
+      "source": "ESIN Avukatlık Bürosu",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "TSRS",
+        "raporlama standartları",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-10-002",
+      "date": "2026-07-10",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Duraklar",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı önemli bir dönüm noktasıdır.",
+      "source": "Zorlu Holding",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "SKDM",
+        "karbon mekanizması",
+        "regülasyon"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-10-003",
+      "date": "2026-07-10",
+      "category": "Tedarik Zinciri",
+      "categoryIcon": "🔗",
+      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya | 2026 Perspektifi",
+      "summary": "Tekstil endüstrisinde artan sürdürülebilirlik baskısı, kimya sektörünün ürün performansının ötesinde çevresel ve sosyal sorumluluk göstermesini gerektirmektedir.",
+      "source": "CHT Türkiye",
+      "sourceUrl": "https://chtturkiye.com/tekstil-ve-endustride-surdurulebilir-kimya-2026",
+      "tags": [
+        "tekstil",
+        "kimya",
+        "endüstri",
+        "sürdürülebilirlik"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-10-004",
+      "date": "2026-07-10",
+      "category": "Sirket Haberleri",
+      "categoryIcon": "🏢",
+      "title": "Türkiye'de Sürdürülebilirlik Farkındalığı Artıyor",
+      "summary": "BloombergHT tarafından yayınlanan programda Türkiye'deki artan sürdürülebilirlik farkındalığı ve uygulamaları ele alınmaktadır.",
+      "source": "BloombergHT",
+      "sourceUrl": "https://www.youtube.com/watch?v=8yV95oM-lOg",
+      "tags": [
+        "farkındalık",
+        "Türkiye",
+        "medya"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-10-005",
+      "date": "2026-07-10",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Hedeflerini Uygulamaya Taşıma Zamanı",
+      "summary": "UN Global Compact Türkiye tarafından, iklim hedeflerinin pratik uygulamaya geçirilmesinin önemi vurgulanmaktadır.",
+      "source": "LinkedIn / UN Global Compact Türkiye",
+      "sourceUrl": "https://tr.linkedin.com/pulse/iklim-hedeflerini-uygulamaya-ta%C5%9F%C4%B1ma-zaman%C4%B1-irkuf",
+      "tags": [
+        "iklim hedefleri",
+        "uygulama",
+        "UN Global Compact"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-10-006",
+      "date": "2026-07-10",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulanması hakkında hukuki analiz ve güncellemeler sunulmaktadır.",
+      "source": "Erdem&Erdem Hukuk Bürosu",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "hukuk",
+        "bülten"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-10-007",
+      "date": "2026-07-10",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Sürdürülebilirlik Raporlamasında Kurallar ve Uygulama Kapsamı Değişiklikleri",
+      "summary": "16 Ocak 2026 tarihli Resmi Gazete ile KGK tarafından TSRS uygulama kapsamında önemli değişiklikler yapılmıştır.",
+      "source": "KGK / Instagram",
+      "sourceUrl": "https://www.instagram.com/reel/DTr41UUDU4f",
+      "tags": [
+        "TSRS",
+        "KGK",
+        "uygulama kapsamı"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-10-008",
+      "date": "2026-07-10",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu",
+      "summary": "Türkiye'nin iklim değişikliğiyle mücadelesi için çıkartılan İklim Kanunu, karbon ayak izi hesaplama ve raporlamayı düzenlenmektedir.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "iklim kanunu",
+        "karbon ayak izi",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-10-009",
+      "date": "2026-07-10",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Kanunu Nedir? Türkiye'de İklim Yasası Nasıl Uygulanıyor?",
+      "summary": "Türkiye'deki İklim Kanunu ve uygulanması hakkında kapsamlı bilgi sunulmakta, SKDM beyan yazılımı gibi araçlar tanıtılmaktadır.",
+      "source": "CimpactPro",
+      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulaniyor",
+      "tags": [
+        "iklim kanunu",
+        "SKDM",
+        "yazılım"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-10-010",
+      "date": "2026-07-10",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Entegre Raporlama Derneği Türkiye - İklim Kanun Teklifi Webinarı",
+      "summary": "Entegre Raporlama Derneği Türkiye tarafından 20 Mart'ta iklim değişikliğiyle mücadelede önemli bir dönüm noktası olan İklim Kanun Teklifi hakkında webinar düzenlenmiştir.",
+      "source": "Entegre Raporlama Derneği Türkiye",
+      "sourceUrl": "https://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
+      "tags": [
+        "iklim kanunu",
+        "webinar",
+        "dernek"
+      ],
+      "importance": "medium"
+    },
     {
       "id": "2026-07-09-001",
       "date": "2026-07-09",
