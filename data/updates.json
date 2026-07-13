@@ -1,6 +1,167 @@
 {
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-13",
   "updates": [
+    {
+      "id": "2026-07-13-001",
+      "date": "2026-07-13",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "2024 yılında ilk kez Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) uygun raporlama yapan işletmeler için düzenlemeler başlatılmıştır. Türkiye'de sürdürülebilirlik raporlaması alanında yeni standartlar ve uyum gereklilikleri tanımlanmıştır.",
+      "source": "ESIN",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-13-002",
+      "date": "2026-07-13",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Dönüm Noktaları",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı bir faza işaret etmektedir. Karbon fiyatlandırması ve uyum mekanizmaları 2026 yılında aktif hale gelmektedir.",
+      "source": "Zorlu Holding",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "SKDM",
+        "karbon",
+        "düzenleme"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-13-003",
+      "date": "2026-07-13",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Hedeflerini Uygulamaya Taşıma Zamanı",
+      "summary": "Türkiye'nin kapsayıcı sürdürülebilirlik çalışmaları 12 Haziran 2026 tarihinde yayınlanmıştır. 5 Haziran Dünya Çevre Günü ve 6 Haziran Türkiye Limit Aşım Günü bağlamında iklim hedeflerinin uygulanması konusu vurgulanmaktadır.",
+      "source": "LinkedIn",
+      "sourceUrl": "https://tr.linkedin.com/pulse/iklim-hedeflerini-uygulamaya-ta%C5%9F%C4%B1ma-zaman%C4%B1-irkuf",
+      "tags": [
+        "iklim",
+        "çevre",
+        "hedefler"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-13-004",
+      "date": "2026-07-13",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "Sürdürülebilir Finans Forumu'nda Türkiye'nin Yeşil Dönüşümü",
+      "summary": "Türkiye'nin 2026 yılında COP31'e ev sahipliği yapacak olması ülkedeki sürdürülebilir finans ve yeşil yatırım çalışmalarına ivme kazandırmaktadır. Yeşil dönüşüm için yatırım fırsatları forum çerçevesinde ele alınmıştır.",
+      "source": "Global Compact Türkiye",
+      "sourceUrl": "https://www.globalcompactturkiye.org/surdurulebilir-finans-forumunda-turkiyenin-yesil-donusumu-icin-yatirim-firsatlari-ele-alindi",
+      "tags": [
+        "yeşil finans",
+        "yatırım",
+        "COP31"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-13-005",
+      "date": "2026-07-13",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "OGGUSTO 2026 Sürdürülebilirlik Trendleri Raporu",
+      "summary": "OGGUSTO tarafından 2026 yılı için gezegen odaklı yeni çağ perspektifinden sürdürülebilirlik trendleri analiz edilmiştir. Rapor işletmelerin sürdürülebilirlik stratejilerini şekillendiren temel trendleri incelemektedir.",
+      "source": "OGGUSTO",
+      "sourceUrl": "https://www.oggusto.com/trendler/2026-surdurulebilirlik-trendleri",
+      "tags": [
+        "trendler",
+        "raporlama",
+        "analiz"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-13-006",
+      "date": "2026-07-13",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "2026 Sürdürülebilirlik Raporlaması Hadleri ve KGK Erteleme Kararı",
+      "summary": "2026 yılında sürdürülebilirlik raporlaması için eşik değerler ve muhasebe odaları tarafından alınan erteleme kararları ortaya konulmuştur. Bağımsız denetim ve finansal raporlama uyum süreçleri güncellenmektedir.",
+      "source": "İstanbul Mali Müşavirlik",
+      "sourceUrl": "https://www.istanbulmalimusavirlik.net/2026-surdurulebilirlik-raporu-hadleri-ve-kgk-karari",
+      "tags": [
+        "eşik değerleri",
+        "KGK",
+        "denetim"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-13-007",
+      "date": "2026-07-13",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik Raporlama Türkiye 2026: TSRS, GRI, CSRD ve ESG Rehberi",
+      "summary": "Türkiye'de 2026 yılında uygulanacak TSRS, GRI, CSRD ve ESG standartları kapsamlı rehber niteliğinde açıklanmıştır. Zorunlu raporlama şartları ve eşik değerleri detaylı olarak incelenmiştir.",
+      "source": "EuropeCarbon",
+      "sourceUrl": "https://www.europecarbon.com/surdurulebilirlik-raporlama-turkiye-2026",
+      "tags": [
+        "TSRS",
+        "GRI",
+        "CSRD",
+        "ESG"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-13-008",
+      "date": "2026-07-13",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek",
+      "summary": "Erdem&Erdem tarafından yayımlanan Çevre ve Sosyal Yönetişim bülteni 2026 yılının birinci çeyreği için Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulanmasını ele almıştır.",
+      "source": "Erdem&Erdem",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "bülten",
+        "uygulama"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-13-009",
+      "date": "2026-07-13",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu",
+      "summary": "Türkiye İklim Kanunu çerçevesinde karbon ayak izi hesaplama ve raporlama yükümlülükleri tanımlanmıştır. Kurumsal ve ürün düzeyinde karbon yönetimi yasal çerçevede düzenlenmiştir.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "iklim kanunu",
+        "karbon ayak izi",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-13-010",
+      "date": "2026-07-13",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Kanunu Nedir? Türkiye'de İklim Yasası Nasıl Uygulanıyor?",
+      "summary": "Türkiye'de iklim yasasının uygulama mekanizmaları ve kurumsal karbon ayak izi hesaplama sistemi açıklanmıştır. SKDM beyan yazılımı ve ESG raporlama araçları iklim kanunu uyumunu desteklemektedir.",
+      "source": "CimpactPro",
+      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulaniyor",
+      "tags": [
+        "iklim yasası",
+        "SKDM",
+        "ESG raporlama"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-12-001",
       "date": "2026-07-12",
