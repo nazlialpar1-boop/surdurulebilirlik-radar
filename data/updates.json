@@ -1,6 +1,166 @@
 {
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-14",
   "updates": [
+    {
+      "id": "2026-07-14-001",
+      "date": "2026-07-14",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) kapsamında 2024 yılından itibaren raporlama yapan işletmeler için yeni düzenlemeler yürürlüğe girmiştir. Karar ile belirlenen standartlara uygun raporlama zorunluluğu artmaktadır.",
+      "source": "ESIN Avukatlık",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "TSRS",
+        "raporlama standartları",
+        "düzenleme"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-14-002",
+      "date": "2026-07-14",
+      "category": "Tedarik Zinciri",
+      "categoryIcon": "🔗",
+      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya 2026 Perspektifi",
+      "summary": "Tekstil ve endüstri sektöründe sürdürülebilir kimya uygulamaları artmaktadır. Kimya artık yalnızca ürün performansı değil, çevresel etkileri de dikkate alarak seçilmektedir.",
+      "source": "CHT Türkiye",
+      "sourceUrl": "https://chtturkiye.com/tekstil-ve-endustride-surdurulebilir-kimya-2026",
+      "tags": [
+        "tekstil",
+        "endüstri",
+        "sürdürülebilir kimya"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-14-003",
+      "date": "2026-07-14",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Duraklar",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı bir dönemi işaret etmektedir. Uyumun yeni rotası belirlenmektedir.",
+      "source": "Zorlu Holding",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "SKDM",
+        "karbon",
+        "regülasyon"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-14-004",
+      "date": "2026-07-14",
+      "category": "Sirket Haberleri",
+      "categoryIcon": "📰",
+      "title": "Türkiye'de Sürdürülebilirlik Farkındalığı Artıyor",
+      "summary": "BloombergHT tarafından yayınlanan 'Sürdürülebilir Gelecek' programında Türkiye'de sürdürülebilirlik farkındalığının arttığı vurgulanmıştır. Haber 3 Temmuz 2026'de yayınlanmıştır.",
+      "source": "BloombergHT",
+      "sourceUrl": "https://www.youtube.com/watch?v=8yV95oM-lOg",
+      "tags": [
+        "farkındalık",
+        "Türkiye",
+        "medya"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-14-005",
+      "date": "2026-07-14",
+      "category": "Sirket Haberleri",
+      "categoryIcon": "📰",
+      "title": "HBR Türkiye Sürdürülebilirlik Zirvesi 2026",
+      "summary": "Harvard Business Review Türkiye tarafından düzenlenen Sürdürülebilirlik Zirvesi 2026'da sektör liderleri ve iş dünyasının etkili temsilcileri bir araya gelmektedir. Sürdürülebilirlik dönüşümüne yön veren güçlü isimler katılmaktadır.",
+      "source": "Harvard Business Review Türkiye",
+      "sourceUrl": "https://www.instagram.com/p/DYAVnpFjc3S",
+      "tags": [
+        "zirve",
+        "liderlik",
+        "etkinlik"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-14-006",
+      "date": "2026-07-14",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "2026 Sürdürülebilirlik Raporlaması Hadleri ve KGK Erteleme Kararı",
+      "summary": "2026 yılı sürdürülebilirlik raporlaması hadleri belirlenmiş ve KGK (Kamu Gözetim Kurumu) erteleme kararı alınmıştır. Bağımsız denetim ve finansal raporlama gerekliliklerine ilişkin güncellemeler yapılmıştır.",
+      "source": "İstanbul Mali Müşavirlik",
+      "sourceUrl": "https://www.istanbulmalimusavirlik.net/2026-surdurulebilirlik-raporu-hadleri-ve-kgk-karari",
+      "tags": [
+        "raporlama hadleri",
+        "KGK",
+        "denetim"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-14-007",
+      "date": "2026-07-14",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek",
+      "summary": "Erdem&Erdem hukuk müşavirliği tarafından yayınlanan ÇSY Bülteni 2026 1. Çeyrek'te Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulamasına ilişkin güncel bilgiler verilmektedir.",
+      "source": "Erdem&Erdem Avukatlık",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "bülten",
+        "hukuki analiz"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-14-008",
+      "date": "2026-07-14",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "BIST Sürdürülebilirlik 25 Endeksi İşletmeleri Örneği",
+      "summary": "BIST Sürdürülebilirlik 25 Endeksinde yer alan işletmelerin iklimle ilgili açıklamaları Türkiye Sürdürülebilirlik Raporlama Standartları çerçevesinde analiz edilmektedir. Karbon ve iklim raporlaması uygulamaları incelenmektedir.",
+      "source": "DergiPark",
+      "sourceUrl": "https://dergipark.org.tr/tr/pub/muvu/article/1650671",
+      "tags": [
+        "BIST",
+        "iklim açıklamaları",
+        "endeks"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-14-009",
+      "date": "2026-07-14",
+      "category": "AB Regulasyonlari",
+      "categoryIcon": "🇪🇺",
+      "title": "İklim Kanunu ve Türkiye'de İklim Yasası Uygulaması",
+      "summary": "Türkiye'de İklim Kanunu ve yürürlükteki iklim yasaları hakkında bilgilendirme yapılmaktadır. Sınırda Karbon Düzenleme Mekanizması (SKDM) ve kurumsal karbon ayak izi hesaplama yükümlülükleri ele alınmaktadır.",
+      "source": "CimpactPro",
+      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulaniyor",
+      "tags": [
+        "iklim kanunu",
+        "SKDM",
+        "karbon ayak izi"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-14-010",
+      "date": "2026-07-14",
+      "category": "AB Regulasyonlari",
+      "categoryIcon": "🇪🇺",
+      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
+      "summary": "Türkiye'de sürdürülebilirlikte yeni zorunlu dönem başlamaktadır. AB uyumu kapsamında işletmelere yol haritası sunulmaktadır. Zorunlu raporlama ve uyum gereklilikleri artmaktadır.",
+      "source": "Periskop",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
+      "tags": [
+        "AB uyumu",
+        "zorunlu dönem",
+        "regülasyon"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-13-001",
       "date": "2026-07-13",
