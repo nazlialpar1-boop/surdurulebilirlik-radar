@@ -1,6 +1,132 @@
 {
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-15",
   "updates": [
+    {
+      "id": "2026-07-15-001",
+      "date": "2026-07-15",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "2024 yılından itibaren Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) uygun raporlama yapan işletmeler için yeni düzenlemeler yürürlüğe girmiştir. Bu standartlar, şirketlerin ESG performanslarını şeffaf bir şekilde raporlamasını zorunlu kılmaktadır.",
+      "source": "ESIN",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-15-002",
+      "date": "2026-07-15",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Duraklara ve SKDM",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı bir faza işaret etmektedir. Bu dönemde işletmeler karbon kredisi ve sertifika yükümlülükleriyle karşı karşıya kalacaktır.",
+      "source": "Zorlu Holding",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "SKDM",
+        "karbon sertifikası",
+        "AB regulasyonları"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-15-003",
+      "date": "2026-07-15",
+      "category": "Tedarik Zinciri",
+      "categoryIcon": "🔗",
+      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya: 2026 Perspektifi",
+      "summary": "Tekstil sektöründe sürdürülebilirlik baskısı artarken, kimya endüstrisi ürün performansı yanında çevresel ve sosyal etkileri de dikkate almak zorunda kalmaktadır. 2026 yılında sürdürülebilir kimya uygulamaları tedarik zincirinin kritik bir parçası haline gelmektedir.",
+      "source": "CHT Türkiye",
+      "sourceUrl": "https://chtturkiye.com/tekstil-ve-endustride-surdurulebilir-kimya-2026",
+      "tags": [
+        "tekstil",
+        "kimya",
+        "sürdürülebilirlik"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-15-004",
+      "date": "2026-07-15",
+      "category": "Sirket Haberleri",
+      "categoryIcon": "🏢",
+      "title": "Türkiye'de Sürdürülebilirlik Farkındalığı Artıyor",
+      "summary": "BloombergHT'nin yayınladığı programa göre, Türkiye'de sürdürülebilirlik konusunda farkındalık giderek artmaktadır. İşletmeler ve stakeholderler sürdürülebilirliğin iş stratejisindeki önemini daha iyi anlamaya başlamışlardır.",
+      "source": "BloombergHT",
+      "sourceUrl": "https://www.youtube.com/watch?v=8yV95oM-lOg",
+      "tags": [
+        "farkındalık",
+        "Türkiye"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-15-005",
+      "date": "2026-07-15",
+      "category": "Sirket Haberleri",
+      "categoryIcon": "🏢",
+      "title": "HBR Türkiye Sürdürülebilirlik Zirvesi 2026",
+      "summary": "Harvard Business Review Türkiye tarafından düzenlenen Sürdürülebilirlik Zirvesi 2026'da, alandaki uzman liderler ve sürdürülebilirlik dönüşümüne yön veren güçlü isimler bir araya gelecektir. Bu etkinlik, iş dünyasının etkili temsilcileri tarafından katılınacaktır.",
+      "source": "HBR Türkiye",
+      "sourceUrl": "https://www.instagram.com/p/DYAVnpFjc3S",
+      "tags": [
+        "konferans",
+        "liderlik"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-15-006",
+      "date": "2026-07-15",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye'de Sürdürülebilirlik Raporlaması ve 2026 Hedefleri",
+      "summary": "Türkiye İklim Yasası kapsamında şirketler çevresel, sosyal ve yönetişim (ESG) performanslarını şeffaf bir şekilde raporlaması zorunlu kılınmıştır. 2026 yılında işletmeler bu yükümlülüklere uyum sağlamak için hazırlık yapmalıdır.",
+      "source": "Sanayi Gazetesi",
+      "sourceUrl": "https://sanayigazetesi.com.tr/turkiyede-surdurulebilirlik-raporlamasi-ve-2026-hedefleri-firmalar-nasil-hazirlanmali",
+      "tags": [
+        "ESG",
+        "İklim Yasası",
+        "zorunlu raporlama"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-15-007",
+      "date": "2026-07-15",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye'de Sürdürülebilirlik Raporlaması Artık Zorunlu",
+      "summary": "2026 yılı içinde, 2025 faaliyet yılına ait sürdürülebilirlik raporu yayımlamak zorunlu hale gelmiştir. Yasal raporlar artık yalnızca finansal verilerden ibaret değil, kapsamlı ESG bilgilerini içermektedir.",
+      "source": "LinkedIn",
+      "sourceUrl": "https://tr.linkedin.com/pulse/t%C3%BCrkiyede-s%C3%BCrd%C3%BCr%C3%BClebilirlik-raporlamas%C4%B1-art%C4%B1k-zorunlu-2025-geli%C5%9Fmeleri-u1pyc",
+      "tags": [
+        "zorunlu raporlama",
+        "ESG",
+        "2025 faaliyet yılı"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-15-008",
+      "date": "2026-07-15",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları ve Uyum Gereklilikleri",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS), işletmelerin iklim riskleri ve fırsatlarını genel iş stratejisi ve finansal planlama bağlamında kapsamlı bir şekilde raporlamalarını amaçlamaktadır. Bu standartlar finansal ve sürdürülebilirlik raporlamasını entegre etmektedir.",
+      "source": "Escarus",
+      "sourceUrl": "https://escarus.com/turkiye-surdurulebilirlik-raporlama-standartlari",
+      "tags": [
+        "TSRS",
+        "iklim riski",
+        "finansal planlama"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-14-001",
       "date": "2026-07-14",
