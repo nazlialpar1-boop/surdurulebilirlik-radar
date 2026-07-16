@@ -1,6 +1,148 @@
 {
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "updates": [
+    {
+      "id": "2026-07-16-001",
+      "date": "2026-07-16",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) uygulamasında 2024 yılında ilk kez raporlama yapan işletmeler için yeni düzenlemeler yürürlüğe girmiştir. Bu düzenlemeler işletmelerin sürdürülebilirlik raporlama uyumunu artırmaktadır.",
+      "source": "ESIN",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-16-002",
+      "date": "2026-07-16",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Duraklar",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı bir faz olarak belirlenmiştir. İşletmelerin bu düzenlemeye uyum sağlaması gerekmektedir.",
+      "source": "Zorlu",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "SKDM",
+        "karbon",
+        "düzenleme"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-16-003",
+      "date": "2026-07-16",
+      "category": "Tedarik Zinciri",
+      "categoryIcon": "⛓️",
+      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya | 2026 Perspektifi",
+      "summary": "Tekstil ve endüstri sektöründe artan sürdürülebilirlik baskısı altında kimya endüstrisi ürün performansının yanı sıra çevresel ve sosyal sorumluluğu da göz önüne almak zorunda kalmaktadır.",
+      "source": "CHT Türkiye",
+      "sourceUrl": "https://chtturkiye.com/tekstil-ve-endustride-surdurulebilir-kimya-2026",
+      "tags": [
+        "tekstil",
+        "kimya",
+        "sürdürülebilirlik"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-16-004",
+      "date": "2026-07-16",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "Türkiye Yeni Dönem Yeşil Finans Stratejisini Yayınladı",
+      "summary": "Türkiye, 2026-2029 dönemini kapsayan Ulusal Yeşil Finans Stratejisi ve Eylem Planını yayınlamıştır. Plan, 11 hedef altında 45 eylem ile üç ana odak alanını belirlemektedir.",
+      "source": "One Stop ESG",
+      "sourceUrl": "https://onestopesg.com/esg-news/turkiye-national-green-finance-strategy",
+      "tags": [
+        "yeşil finans",
+        "strateji",
+        "eylem planı"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-16-005",
+      "date": "2026-07-16",
+      "category": "AB Regulasyonları",
+      "categoryIcon": "🇪🇺",
+      "title": "Türkiye'nin Yeni İklim Yasası – CBAM ve İş Dünyası için Ne Anlama Geliyor?",
+      "summary": "Türkiye'nin yeni iklim yasası kapsamında Sınırda Karbon Ayarlaması Mekanizması (CBAM) düzenlemeleri iş dünyası için önemli sonuçlar doğurmaktadır. İşletmeler bu düzenlemelere uyum sağlayabilmek için gerekli adımları atmalıdır.",
+      "source": "Green Reporting",
+      "sourceUrl": "https://greenreporting.eu/tr/Yeni-T%C3%BCrkiye-iklim-yasas%C4%B1-CBAM-ve-i%C5%9F-d%C3%BCnyas%C4%B1-i%C3%A7in-ne-anlama-geliyor",
+      "tags": [
+        "CBAM",
+        "iklim yasası",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-16-006",
+      "date": "2026-07-16",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Sürdürülebilirlik Raporlama ve İklim Riskleri - 2026",
+      "summary": "Sürdürülebilirlik düzenlemeleri ve ESG raporlama uygulamaları ile işletmelerin iklim risklerini yönetmesi ve raporlaması gerekmektedir. 2026 yılında bu konular daha da önem kazanmaktadır.",
+      "source": "IFE",
+      "sourceUrl": "https://ife.com.tr/tr/courses/surdurulebilirlik-raporlama-ve-iklim-riskleri",
+      "tags": [
+        "raporlama",
+        "iklim riski",
+        "ESG"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-16-007",
+      "date": "2026-07-16",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Entegre Raporlama Uygulamaları Türkiye'de Yaygınlaşıyor",
+      "summary": "Türkiye'de entegre raporlama uygulamaları giderek yaygınlaşmakta ve daha fazla işletme bu standartları benimsemektedir. Entegre Raporlama Derneği Türkiye bu alandaki gelişmeleri takip etmektedir.",
+      "source": "Entegre Raporlama Derneği Türkiye",
+      "sourceUrl": "http://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
+      "tags": [
+        "entegre raporlama",
+        "standart"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-16-008",
+      "date": "2026-07-16",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Stratejisi Yönetimi Danışmanlık Hizmetleri",
+      "summary": "ClimeCo Türkiye, işletmelere ihtiyaca yönelik özelleştirilmiş iklim stratejisi yönetimi çözümleri sunmaktadır. Küresel vizyonunu bölgesel uygulamalarla birleştiren danışmanlık yaklaşımı benimsenmiştir.",
+      "source": "ClimeCo Türkiye",
+      "sourceUrl": "https://www.climeco.com.tr/iklim-stratejisi-yonetimi",
+      "tags": [
+        "iklim stratejisi",
+        "danışmanlık"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-16-009",
+      "date": "2026-07-16",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları Hakkında SSS",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) hakkında işletmelerin sıkça sorulan sorularına uzman yanıtlar verilmektedir. Standartlar hakkında detaylı bilgi almak için profesyonel destek alınabilir.",
+      "source": "Sürdürülebilirlik Raporu",
+      "sourceUrl": "https://www.surdurulebilirlikraporu.org.tr/sikca-sorulan-sorular/71/turkiye-surdurulebilirlik-raporlama-standartlari",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "rehber"
+      ],
+      "importance": "medium"
+    },
     {
       "id": "2026-07-15-001",
       "date": "2026-07-15",
