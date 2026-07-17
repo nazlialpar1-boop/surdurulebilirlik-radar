@@ -1,6 +1,167 @@
 {
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-17",
   "updates": [
+    {
+      "id": "2026-07-17-001",
+      "date": "2026-07-17",
+      "category": "AB Regulasyonlari",
+      "categoryIcon": "🇪🇺",
+      "title": "2025'ten 2026'ya Sürdürülebilirlik Regülasyonlarında Kritik Duraklar",
+      "summary": "2026 yılı, Sınırda Karbon Düzenleme Mekanizması (SKDM) kapsamında mali yükümlülüklerin ve karbon sertifikası mekanizmalarının somutlaştığı bir faza işaret etmektedir. Türk işletmeleri için yeni mevzuati uyum gereklidir.",
+      "source": "Zorlu Holding",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "SKDM",
+        "karbon",
+        "regulasyon"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-17-002",
+      "date": "2026-07-17",
+      "category": "Tedarik Zinciri",
+      "categoryIcon": "🔗",
+      "title": "Tekstil ve Endüstride Sürdürülebilir Kimya 2026 Perspektifi",
+      "summary": "Tekstil endüstrisinde artan sürdürülebilirlik baskıları kapsamında kimya sektörünün ürün performansı ve çevre dostu çözümler sunması gerekmektedir. 2026'da sektör dönüşümü hızlanmaktadır.",
+      "source": "CHT Türkiye",
+      "sourceUrl": "https://chtturkiye.com/tekstil-ve-endustride-surdurulebilir-kimya-2026",
+      "tags": [
+        "tekstil",
+        "kimya",
+        "sürdürülebilirlik"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-17-003",
+      "date": "2026-07-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "2025 yılı faaliyet dönemine ilişkin Sürdürülebilirlik Raporlarının hazırlanmasında yeni muafiyetler ve düzenlemeler uygulanmaktadır. Şirketler için raporlama zorunlulukları güncellenmektedir.",
+      "source": "ESIN Avukatlık",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "raporlama",
+        "mevzuat",
+        "uyum"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-17-004",
+      "date": "2026-07-17",
+      "category": "Sirket Haberleri",
+      "categoryIcon": "🏢",
+      "title": "2026'da Sürdürülebilir Modayı Ne Tanımlayacak",
+      "summary": "Türkiye perspektifinde moda endüstrisinde sürdürülebilirliğin bir departman değil, baştan sona işleyen bir ürün işletim sistemi olması gerektiği vurgulanmaktadır.",
+      "source": "BiModa Hayat",
+      "sourceUrl": "https://www.bimodahayat.com/post/2026-surdurulebilir-odayi-ne-tanimlayacak",
+      "tags": [
+        "moda",
+        "sürdürülebilirlik",
+        "işletim sistemi"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-17-005",
+      "date": "2026-07-17",
+      "category": "Enerji",
+      "categoryIcon": "⚡",
+      "title": "Türkiye Sürdürülebilir Havacılık Platformu - SAF Yol Haritası",
+      "summary": "Türkiye Sürdürülebilir Havacılık Platformu kapsamında ülke için Sürdürülebilir Havacılık Yakıtı (SAF) yol haritası oluşturulmaktadır. Kamu perspektifinden havacılık sektörü dönüşümü desteklenmektedir.",
+      "source": "Türkiye Sürdürülebilir Havacılık Platformu",
+      "sourceUrl": "https://turkiyesustainableaviation.com/bakanlik",
+      "tags": [
+        "SAF",
+        "havacılık",
+        "yakıt",
+        "enerji"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-17-006",
+      "date": "2026-07-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "ESG Nedir? Kurumsal Sürdürülebilirlik Rehberi 2026",
+      "summary": "ESG raporlama standartları, Türkiye'de mevzuat ve işletmeler için uygulama adımları detaylandırılmaktadır. İklim, insan hakları gibi alanları kapsayan ESG politikaları hazırlanması önerilmektedir.",
+      "source": "Mora Mühendislik",
+      "sourceUrl": "https://moramuhendislik.com.tr/blog/surdurebilirlik/esg-nedir-kurumsal-surdurulebilirlik",
+      "tags": [
+        "ESG",
+        "raporlama",
+        "politika"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-17-007",
+      "date": "2026-07-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "TSRS Nedir? Türkiye'de Sürdürülebilirlik Raporlaması 2026 Rehberi",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) hakkında kapsamlı rehber sunulmaktadır. Şirketlerin raporlama uyumluluğu için ihtiyaç duydukları bilgiler derlenmiştir.",
+      "source": "ENOPTIMAL",
+      "sourceUrl": "https://enoptimal.com/blog/tsrs-surdurulebilirlik-raporlamasi-rehberi",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "rehber"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-17-008",
+      "date": "2026-07-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek - Eşik Değerler Belirlendi",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulama kapsamına ilişkin eşik değerler 16.01.2026 tarihinde yeniden belirlenmiştir. Şirketler yeni eşik değerlere uyum sağlamalıdır.",
+      "source": "Erdem&Erdem Avukatlık",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "eşik değer",
+        "raporlama",
+        "standart"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-17-009",
+      "date": "2026-07-17",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu",
+      "summary": "Türkiye İklim Kanunu kapsamında karbon ayak izi danışmanlık ve hesaplama hizmetleri sunulmaktadır. Kurumsal ve ürün bazlı karbon ayak izi yönetimi ülke düzeyinde yaygınlaşmaktadır.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "iklim kanunu",
+        "karbon ayak izi",
+        "hesaplama"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-17-010",
+      "date": "2026-07-17",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Kanunu Nedir? Türkiye'de İklim Yasası Nasıl Uygulanıyor?",
+      "summary": "Türkiye'de İklim Kanunu uygulaması detaylandırılmaktadır. SKDM beyan yazılımı ve kurumsal karbon ayak izi hesaplama araçları şirketlere sunulmaktadır.",
+      "source": "CimpactPro",
+      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uyglananiyor",
+      "tags": [
+        "iklim kanunu",
+        "SKDM",
+        "karbon hesaplama"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-16-001",
       "date": "2026-07-16",
