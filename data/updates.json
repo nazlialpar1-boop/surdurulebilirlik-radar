@@ -1,6 +1,166 @@
 {
-  "lastUpdated": "2026-07-17",
+  "lastUpdated": "2026-07-18",
   "updates": [
+    {
+      "id": "2026-07-18-001",
+      "date": "2026-07-18",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) uygun raporlama yapan işletmeler için yeni düzenlemeler gündeme gelmiştir. 2024 yılından itibaren TSRS standartlarına uyumlu raporlama zorunlu hale gelmektedir.",
+      "source": "ESIN Avukatlık",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "düzenleme"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-18-002",
+      "date": "2026-07-18",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "2026 Türkiye Çevre Piyasası Analizi: Sürdürülebilirlik Yatırımları",
+      "summary": "2026 yılı itibarıyla Türkiye'de çevre sektörü iklim değişikliği politikaları ve yeşil dönüşüm projeleriyle yeni bir ivme kazanmıştır. Sürdürülebilirlik yatırımlarında önemli artış gözlenmektedir.",
+      "source": "Emlak Ekspertizi",
+      "sourceUrl": "https://www.emlakekspertizi.com/blog/post/2026-turkiye-cevre-piyasasi-analizi-surdurulebilirlik-yatirimlari-ve-yeni-duzenlemeler",
+      "tags": [
+        "yeşil dönüşüm",
+        "pazar analizi",
+        "yatırım"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-18-003",
+      "date": "2026-07-18",
+      "category": "Ambalaj & Atik",
+      "categoryIcon": "♻️",
+      "title": "2026 Türkiye Sürdürülebilirlik Rotası - IDEX İstanbul Fuarı",
+      "summary": "7-10 Mayıs 2026 tarihlerinde düzenlenecek IDEX İstanbul fuarında tıbbi atık yönetimi başta olmak üzere sektörel bazda sürdürülebilirliğin somut örnekleri sunulacaktır.",
+      "source": "Yeşil İş Platformu",
+      "sourceUrl": "https://www.yesilisplatformu.com/2026-turkiye-surdurulebilirlik-rotasi",
+      "tags": [
+        "atık yönetimi",
+        "fuar",
+        "etkinlik"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-18-004",
+      "date": "2026-07-18",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "2025'e Son Bir Bakış: Sürdürülebilirlikte Regülasyon Fırtınası",
+      "summary": "2025 yılı sürdürülebilirlik sektörü için kırılma yılı olmuştur. CSRD, CBAM, TSRS, Türkiye İklim Kanunu, ETS ve COP30 kararları sektörü şekillendirmektedir.",
+      "source": "LinkedIn",
+      "sourceUrl": "https://tr.linkedin.com/pulse/2025e-son-bir-bak%C4%B1%C5%9F-s%C3%BCrd%C3%BCr%C3%BClebilirlikte-reg%C3%BClasyon-f%C4%B1rt%C4%B1nas%C4%B1-ve-nftef",
+      "tags": [
+        "CBAM",
+        "İklim Kanunu",
+        "COP30",
+        "ETS"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-18-005",
+      "date": "2026-07-18",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "2026'da Süslü Hedefler ve Anlatılarla Gerçek Veriler Yer Değiştirebilir",
+      "summary": "2026 yılında sürdürülebilirlik alanında hedeflerden ziyade veri bütünlüğü önem kazanacak gibi görünmektedir. Veri kalitesi ve doğruluğu raporlamanın merkezine alınacaktır.",
+      "source": "QNB Finansbank",
+      "sourceUrl": "https://www.qnb.com.tr/surdurulebilirlik/surdurulebilirlik-blog/surdurulebilirlik-bloglari/2026da-suslu-hedefler-ve-anlatilarla-gercek-veriler-yer-degistirebilir",
+      "tags": [
+        "veri bütünlüğü",
+        "raporlama kalitesi"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-18-006",
+      "date": "2026-07-18",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik Raporlama Türkiye 2026: TSRS, GRI, CSRD ve ESG Rehberi",
+      "summary": "TSRS, GRI, CSRD ve ESG standartlarının 2026 yılındaki uygulanması, zorunluluk eşik değerleri ve raporlama gereksinimleri detaylı olarak açıklanmaktadır.",
+      "source": "EuropeCarbon",
+      "sourceUrl": "https://www.europecarbon.com/surdurulebilirlik-raporlama-turkiye-2026",
+      "tags": [
+        "TSRS",
+        "GRI",
+        "CSRD",
+        "ESG"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-18-007",
+      "date": "2026-07-18",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek",
+      "summary": "Erdem&Erdem hukuk bürosunun hazırladığı bültende Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulanmasıyla ilgili güncel bilgiler yer almaktadır.",
+      "source": "Erdem&Erdem Avukatlık",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "bülten",
+        "hukuk"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-18-008",
+      "date": "2026-07-18",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "BIST Sürdürülebilirlik 25 Endeksi İşletmeleri Örneği",
+      "summary": "İklimle ilgili açıklamaların Türkiye Sürdürülebilirlik Raporlama Standartları çerçevesinde analiz edilerek BIST Sürdürülebilirlik 25 Endeksi işletmeleri incelenmektedir.",
+      "source": "DergiPark",
+      "sourceUrl": "https://dergipark.org.tr/tr/pub/muvu/article/1650671",
+      "tags": [
+        "iklim açıklamaları",
+        "BIST",
+        "TSRS"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-18-009",
+      "date": "2026-07-18",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu",
+      "summary": "Türkiye İklim Kanunu kapsamında karbon ayak izi hesaplaması, raporlaması ve ürün karbon ayak izi danışmanlık hizmetleri ele alınmaktadır.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "İklim Kanunu",
+        "karbon ayak izi"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-18-010",
+      "date": "2026-07-18",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Kanunu Nedir? Türkiye'de İklim Yasası Nasıl Uygulanıyor?",
+      "summary": "Türkiye İklim Kanununun uygulanması, Sınırda Karbon Düzenleme Mekanizması (SKDM) ve ESG raporlama yazılımı uygulamaları açıklanmaktadır.",
+      "source": "CimpactPro",
+      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulaniyor",
+      "tags": [
+        "İklim Kanunu",
+        "SKDM",
+        "yazılım"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-17-001",
       "date": "2026-07-17",
