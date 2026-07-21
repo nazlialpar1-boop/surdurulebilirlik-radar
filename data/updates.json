@@ -1,6 +1,89 @@
 {
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-21",
   "updates": [
+    {
+      "id": "2026-07-21-001",
+      "date": "2026-07-21",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik Raporlama Türkiye 2026: TSRS, GRI, CSRD ve ESG Rehberi",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) 2026 yılında yayınlanan Resmi Gazete ile güncellenerek uygulama kapsamı yeniden belirlenmiştir. GRI, CSRD ve ESG standartlarıyla uyumlu raporlama rehberi sunulmaktadır.",
+      "source": "EUROPECARBON",
+      "sourceUrl": "https://www.europecarbon.com/surdurulebilirlik-raporlama-turkiye-2026",
+      "tags": [
+        "TSRS",
+        "GRI",
+        "CSRD",
+        "ESG",
+        "raporlama"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-21-002",
+      "date": "2026-07-21",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek - Türkiye Sürdürülebilirlik Raporlama Standartları",
+      "summary": "Erdem&Erdem tarafından yayınlanan 2026 birinci çeyrek bülteninde Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulaması hakkında kapsamlı analiz sunulmaktadır.",
+      "source": "Erdem&Erdem",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "bülten",
+        "uygulamalar"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-21-003",
+      "date": "2026-07-21",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik Raporlamasında Yeni Kurallar - TSRS Güncelemeleri",
+      "summary": "KGK tarafından 2026 yılında Resmi Gazete'de yayınlanan Türkiye Sürdürülebilirlik Raporlama Standartları uygulama kapsamının yeniden düzenlendiği duyurulmaktadır.",
+      "source": "Instagram/KGK",
+      "sourceUrl": "https://www.instagram.com/reel/DTr41UUDU4f",
+      "tags": [
+        "TSRS",
+        "KGK",
+        "düzenleme"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-21-004",
+      "date": "2026-07-21",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklimle İlgili Açıklamaların TSRS Çerçevesinde Analizi - BIST Sürdürülebilirlik 25",
+      "summary": "BIST Sürdürülebilirlik 25 Endeksi işletmelerinin iklim açıklamaları Türkiye Sürdürülebilirlik Raporlama Standartları kapsamında incelenmektedir.",
+      "source": "DergiPark",
+      "sourceUrl": "https://dergipark.org.tr/tr/pub/muvu/article/1650671",
+      "tags": [
+        "iklim",
+        "TSRS",
+        "BIST",
+        "karbon"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-07-21-005",
+      "date": "2026-07-21",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu",
+      "summary": "Türkiye Cumhuriyeti tarafından iklim değişikliğine karşı alınacak önlemleri ve karbon ayak izi hesaplama yükümlülüklerini belirleyen İklim Kanunu kapsamlı olarak açıklanmaktadır.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "iklim kanunu",
+        "karbon ayak izi",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-07-20-001",
       "date": "2026-07-20",
