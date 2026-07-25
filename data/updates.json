@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-07-25",
   "updates": [
+    {
+      "id": "2026-07-25-001",
+      "date": "2026-07-25",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları'na (TSRS) uygun raporlama yapan işletmeler için yeni düzenlemeler hayata geçirilmiştir. 2024 yılında ilk kez TSRS uyumlu raporlama gerçekleştirilmiştir.",
+      "source": "ESIN Avukatlık",
+      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
+      "tags": [
+        "TSRS",
+        "Raporlama Standartları",
+        "Düzenlemeler"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-25-002",
+      "date": "2026-07-25",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "2026 Türkiye Sürdürülebilirlik Rotası - COP31 İstanbul",
+      "summary": "Türkiye, 9-20 Kasım tarihlerinde İstanbul'da COP31'e ev sahipliği yapacaktır. 2026 yılı Türkiye'nin iklim alanında stratejik bir dönüm noktasını işaretlemektedir.",
+      "source": "Yeşil İş Platformu",
+      "sourceUrl": "https://www.yesilisplatformu.com/2026-turkiye-surdurulebilirlik-rotasi",
+      "tags": [
+        "COP31",
+        "İstanbul",
+        "İklim"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-25-003",
+      "date": "2026-07-25",
+      "category": "AB Regulasyonları",
+      "categoryIcon": "⚖️",
+      "title": "2025'e Son Bir Bakış: Sürdürülebilirlikte Regülasyon Fırtınası",
+      "summary": "1 Ocak 2026 itibarıyla yürürlüğe giren önemli regülasyonlar bulunmaktadır. Finansal etki kaçınılmaz hale gelmekte ve işletmeler yeni mevzuatlara uyum sağlamak zorundadır.",
+      "source": "LinkedIn",
+      "sourceUrl": "https://tr.linkedin.com/pulse/2025e-son-bir-bak%C4%B1%C5%9F-s%C3%BCrd%C3%BCr%C3%BClebilirlikte-reg%C3%BClasyon-f%C4%B1rt%C4%B1nas%C4%B1-ve-nftef",
+      "tags": [
+        "Regülasyon",
+        "Uyum",
+        "2026"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-25-004",
+      "date": "2026-07-25",
+      "category": "AB Regulasyonları",
+      "categoryIcon": "⚖️",
+      "title": "2026 Çevre Mevzuatında Değişen 12 Önemli Madde",
+      "summary": "2026 yılında Türkiye'nin çevre politikalarında köklü bir dönüşüm yaşanmaktadır. Avrupa Yeşil Mutabakatı ile uyumlaştırma çalışmaları hız kazanmıştır.",
+      "source": "Ekol Çevre",
+      "sourceUrl": "https://www.ekolcevre.com/blog/2026-cevre-mevzuatinda-degisen-12-onemli-madde",
+      "tags": [
+        "Çevre Mevzuatı",
+        "Avrupa",
+        "Yeşil Mutabakat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-07-25-005",
+      "date": "2026-07-25",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "2026 Sürdürülebilirlik Raporlaması Hadleri & KGK Erteleme Kararı",
+      "summary": "2026 yılında sürdürülebilirlik raporlaması hadleri ve KGK tarafından alınan erteleme kararı hakkında önemli güncellemeler yapılmıştır.",
+      "source": "İstanbul Mali Müşavirlik",
+      "sourceUrl": "https://www.istanbulmalimusavirlik.net/2026-surdurulebilirlik-raporu-hadleri-ve-kgk-karari",
+      "tags": [
+        "Raporlama Hadleri",
+        "KGK",
+        "Bağımsız Denetim"
+      ],
+      "importance": "medium"
+    },
     {
       "id": "2026-07-24-001",
       "date": "2026-07-24",
