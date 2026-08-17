@@ -1,6 +1,143 @@
 {
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-17",
   "updates": [
+    {
+      "id": "2026-08-17-001",
+      "date": "2026-08-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "2026 Sürdürülebilirlik Raporlarında Geri Dönüşüm Verilerinin Ağırlığı Artıyor",
+      "summary": "Türkiye pazarında faaliyet gösteren işletmeler için Sıfır Atık Bilgi Sistemi (SABS) beyanları 2026 yılı itibarıyla çok daha sıkı denetim altına alınmaktadır. Sürdürülebilirlik raporlarında geri dönüşüm verilerinin ağırlığı artmaktadır.",
+      "source": "Beyaz Gündem Gazetesi",
+      "sourceUrl": "https://www.beyazgundem.com/2026-surdurulebilirlik-raporlarinda-geri-donusum-verilerinin-agirligi-artiyor",
+      "tags": [
+        "SABS",
+        "geri dönüşüm",
+        "sıfır atık",
+        "raporlama"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-08-17-002",
+      "date": "2026-08-17",
+      "category": "Ambalaj & Atık",
+      "categoryIcon": "♻️",
+      "title": "Çevre Kanunu Rehberi 2026: Kapsamlı Klavuz",
+      "summary": "2026 yılı idari para cezaları, özellikle tekerrür ve 3 katı çarpanlarıyla birlikte milyonlarca lirayı bulmaktadır. Mali sürdürülebilirlik riski işletmeler için kritik bir konudur.",
+      "source": "Yeşil Ajanda",
+      "sourceUrl": "https://yesilajanda.com/cevre-kanunu-rehberi-2026-kapsamli-klavuz",
+      "tags": [
+        "idari para cezası",
+        "çevre kanunu",
+        "mevzuat",
+        "mali risk"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-08-17-003",
+      "date": "2026-08-17",
+      "category": "Su",
+      "categoryIcon": "💧",
+      "title": "2026'da Türkiye'de Gaz Emisyonu ve Atık Su Regülasyonları",
+      "summary": "Türkiye'de gaz emisyonu ve atık su regülasyonlarında 2026 yılında kapsamlı mevzuat değişiklikleri yapılmaktadır. Tesisler için yeni zorunluluklar ve riskler ortaya çıkmaktadır.",
+      "source": "OCS Ozon",
+      "sourceUrl": "https://www.ocsozon.com/blog/2026-da-tuerkiye-de-gaz-emisyonu-ve-atik-su-reguelasyonlari-mevzuat-zorunluluklar-ve-tesisler-icin-riskler",
+      "tags": [
+        "atık su",
+        "gaz emisyonu",
+        "regülasyon",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-08-17-004",
+      "date": "2026-08-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Sürdürülebilirlik Raporlama Türkiye 2026: TSRS, GRI, CSRD ve ESG Rehberi",
+      "summary": "TSRS (Türkiye Sürdürülebilirlik Raporlama Standartları) 2026 yılında zorunlu hale gelmektedir. GRI, CSRD ve ESG standartlarına uyum sağlayan raporlama rehberleri hazırlanmıştır.",
+      "source": "EUROPECARBON",
+      "sourceUrl": "https://www.europecarbon.com/surdurulebilirlik-raporlama-turkiye-2026",
+      "tags": [
+        "TSRS",
+        "GRI",
+        "CSRD",
+        "ESG",
+        "raporlama standartları"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-08-17-005",
+      "date": "2026-08-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Türkiye'de Sürdürülebilirlik Raporlaması ve 2026 Hedefleri",
+      "summary": "Türkiye İklim Yasası, şirketlerin çevresel, sosyal ve yönetişim (ESG) performanslarını şeffaf bir şekilde raporlamalarını zorunlu kılmaktadır. Firmalar 2026 hedefleri doğrultusunda hazırlanmaktadırlar.",
+      "source": "Sanayi Gazetesi",
+      "sourceUrl": "https://sanayigazetesi.com.tr/turkiyede-surdurulebilirlik-raporlamasi-ve-2026-hedefleri-firmalar-nasil-hazirlanmali",
+      "tags": [
+        "ESG",
+        "İklim Yasası",
+        "raporlama",
+        "2026 hedefleri"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-08-17-006",
+      "date": "2026-08-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "TSRS Nedir? Türkiye'de Sürdürülebilirlik Raporlaması 2026 Rehberi",
+      "summary": "Türkiye'de sürdürülebilirlik raporlaması artık yalnızca gönüllü ESG broşürü değildir. Belirli ölçekteki şirketler için yasal açıklama yükümlülüğü haline gelmiştir.",
+      "source": "ENOPTIMAL",
+      "sourceUrl": "https://enoptimal.com/tr/blog/tsrs-surdurulebilirlik-raporlamasi-rehberi",
+      "tags": [
+        "TSRS",
+        "yasal zorunluluk",
+        "ESG",
+        "raporlama"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-08-17-007",
+      "date": "2026-08-17",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek",
+      "summary": "16.01.2026 tarihli ve 33139 sayılı Resmî Gazete'de yayımlanan Türkiye Sürdürülebilirlik Raporlama Standartlarının Uygulama Kapsamı resmi olarak belirlenmiştir.",
+      "source": "Erdem & Erdem",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "Resmî Gazete",
+        "uygulama kapsamı",
+        "mevzuat"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-08-17-008",
+      "date": "2026-08-17",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
+      "summary": "Gübre, elektrik ve hidrojen gibi ürünleri ihraç eden şirketler 2026'dan itibaren her bir ton karbon salımı için bedel ödemek zorunda kalacaktır. Karbon muhasebesi zorunlu hale gelmektedir.",
+      "source": "YouTube",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
+      "tags": [
+        "karbon",
+        "emisyon",
+        "ihracat",
+        "2026"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-08-16-001",
       "date": "2026-08-16",
@@ -2804,134 +2941,6 @@
         "paydaş yönetimi"
       ],
       "importance": "high"
-    },
-    {
-      "id": "2026-07-28-008",
-      "date": "2026-07-28",
-      "category": "AB Regulasyonlari",
-      "categoryIcon": "⚖️",
-      "title": "ÇSY Bülteni 2026 1. Çeyrek",
-      "summary": "16.01.2026 tarihli Resmî Gazete'de yayımlanan Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulama kapsamının belirlenmesine ilişkin düzenlemeler analiz edilmektedir.",
-      "source": "Erdem&Erdem Hukuk Müşavirliği",
-      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
-      "tags": [
-        "TSRS",
-        "resmi gazete",
-        "uygulama kapsamı"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-07-28-009",
-      "date": "2026-07-28",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
-      "summary": "2026'dan itibaren gübre, elektrik ve hidrojen gibi ürünleri ihraç eden şirketler, bu ürünlerin üretimindeki her bir ton karbon salımı için bir bedel ödemeye başlayacaklardır. Karbon vergisi uygulaması başlamaktadır.",
-      "source": "YouTube",
-      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
-      "tags": [
-        "karbon vergisi",
-        "karbon fiyatlandırması",
-        "2026"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-07-28-010",
-      "date": "2026-07-28",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "İklimle İlgili Açıklamaların TSRS Çerçevesinde Analizi: BIST Sürdürülebilirlik 25 Endeksi",
-      "summary": "BIST Sürdürülebilirlik 25 Endeksi işletmelerinin iklimle ilgili açıklamalarının Türkiye Sürdürülebilirlik Raporlama Standartları çerçevesinde analiz edilmesi ele alınmıştır. Akademik araştırma kapsamında değerlendirilmektedir.",
-      "source": "Muhasebe ve Vergi Uygulamaları Dergisi",
-      "sourceUrl": "https://dergipark.org.tr/tr/pub/muvu/article/1650671",
-      "tags": [
-        "iklim açıklamaları",
-        "TSRS",
-        "BIST endeksi"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-07-27-001",
-      "date": "2026-07-27",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "OGGUSTO 2026 Sürdürülebilirlik Trendleri Raporu",
-      "summary": "2026'ya giderken sürdürülebilirlik ile dijital teknolojilerin ayrılmaz hale geldiği yeni bir ekonomik düzen ortaya çıkıyor. İş dünyasını bekleyen asıl dönüşüm, bu iki alanın entegrasyonunda yatmaktadır.",
-      "source": "OGGUSTO",
-      "sourceUrl": "https://www.oggusto.com/trendler/2026-surdurulebilirlik-trendleri",
-      "tags": [
-        "trendler",
-        "dijitalleşme",
-        "ekonomik dönüşüm"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-07-27-002",
-      "date": "2026-07-27",
-      "category": "AB Regulasyonlari",
-      "categoryIcon": "⚖️",
-      "title": "Sürdürülebilirlik ve Çevre Mevzuatında Güncel Düzenlemeler",
-      "summary": "Türkiye'de sürdürülebilirlik ve çevre alanında 2026 yılında yürürlüğe giren yeni düzenlemeler hakkında kapsamlı bilgiler sunulmaktadır. Elektrik ve enerji sektörüne yönelik yeni ödeme hizmetleri düzenlemeleri yer almaktadır.",
-      "source": "ESIN Hukuk Bürosu",
-      "sourceUrl": "https://www.esin.av.tr/tr/2026/01/13/surdurulebilirlik-ve-cevre-mevzuatinda-guncel-duzenlemeler",
-      "tags": [
-        "mevzuat",
-        "düzenleme",
-        "enerji"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-07-27-003",
-      "date": "2026-07-27",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "Sürdürülebilirlik Zirvesi 2026",
-      "summary": "Harvard Business Review Türkiye tarafından düzenlenen zirvede, COP31'in Türkiye'de yaratacağı olumlu ivmeyle sürdürülebilirliğin gelecek dönemindeki dinamikleri ele alınmaktadır.",
-      "source": "HBR Türkiye",
-      "sourceUrl": "https://event.hbrturkiye.com/surdurulebilirlik-zirvesi-2026",
-      "tags": [
-        "iklim",
-        "COP31",
-        "konferans"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-07-27-004",
-      "date": "2026-07-27",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Hedeflerini Uygulamaya Taşıma Zamanı",
-      "summary": "UN Global Compact Türkiye tarafından paylaşılan içerik, iklim hedeflerinin pratik uygulamaya dönüştürülmesinin önemini vurgulamaktadır. Türkiye'nin en kapsayıcı sürdürülebilirlik çabalarının detaylandırılması sunulmaktadır.",
-      "source": "UN Global Compact Türkiye",
-      "sourceUrl": "https://tr.linkedin.com/pulse/iklim-hedeflerini-uygulamaya-ta%C5%9F%C4%B1ma-zaman%C4%B1-irkuf",
-      "tags": [
-        "iklim hedefleri",
-        "uygulama",
-        "global compact"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-07-27-005",
-      "date": "2026-07-27",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "2026 Yarıyıl Özeti - Sürdürülebilir Kalkınma Raporu",
-      "summary": "Sürdürülebilir Kalkınma Raporu 2026'nın Türkiye bulguları, sürdürülebilir kalkınmanın farklı boyutlarına dikkat çekerek geleceğe yön veren politikaları ortaya koymaktadır.",
-      "source": "Instagram",
-      "sourceUrl": "https://www.instagram.com/p/DbNtYiRCLaZ",
-      "tags": [
-        "kalkınma",
-        "rapor",
-        "bulguları"
-      ],
-      "importance": "medium"
     }
   ]
 }
