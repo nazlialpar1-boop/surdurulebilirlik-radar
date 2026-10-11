@@ -1,6 +1,120 @@
 {
-  "lastUpdated": "2026-10-10",
+  "lastUpdated": "2026-10-11",
   "updates": [
+    {
+      "id": "2026-10-11-001",
+      "date": "2026-10-11",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Türkiye updates sustainability reporting thresholds",
+      "summary": "Türkiye has updated its sustainability reporting thresholds, establishing new standards for corporate disclosure requirements. These updates aim to harmonize reporting practices with international standards and improve transparency in sustainability communications.",
+      "source": "Corporate Disclosures",
+      "sourceUrl": "https://www.corporatedisclosures.org/content/news/.html",
+      "tags": [
+        "reporting",
+        "disclosure",
+        "standards"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-11-002",
+      "date": "2026-10-11",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye's ETS pilot phase launch in Q3 2026",
+      "summary": "Türkiye's Emissions Trading System (ETS) pilot phase is expected to begin in Q3 2026, with all necessary plans and secondary legislation to be finalized by 2027. This marks a significant step in implementing the new Türkiye Climate Law.",
+      "source": "Climate Action Tracker",
+      "sourceUrl": "https://climateactiontracker.org/countries/turkey/policies-action",
+      "tags": [
+        "ETS",
+        "emissions",
+        "climate law",
+        "carbon pricing"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-11-003",
+      "date": "2026-10-11",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu yürürlüğe girdi",
+      "summary": "Türkiye'nin yeni İklim Kanunu yürürlüğe girmiş, şirketleri özellikle Emisyon Ticaret Sistemi mevzuatı kapsamında yeni yükümlülükler getirmektedir. Yüksek sera gazı salımı yapan sektörlerde uyum zorunlu hale gelmiştir.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "climate law",
+        "emissions trading",
+        "compliance"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-11-004",
+      "date": "2026-10-11",
+      "category": "AB Regulasyonları",
+      "categoryIcon": "🇪🇺",
+      "title": "AB Sınırda Karbon Düzenleme Mekanizması ve Türkiye'nin uyum stratejisi",
+      "summary": "Avrupa Birliği'nin SKDM (Sınırda Karbon Düzenleme Mekanizması) uygulaması, Türkiye'nin karbon yoğun sektörleri etkilemektedir. Türkiye şirketleri AB düzenlemelerine uyum sağlamak için stratejiler geliştirmektedir.",
+      "source": "ATP Tech",
+      "sourceUrl": "https://www.atptech.com/turkiye-iklim-kanunu-yururluge-girdi-sirketler-icin-zorunluluklar-firsatlar-ve-uyum-rehberi",
+      "tags": [
+        "CBAM",
+        "EU regulations",
+        "carbon border",
+        "compliance"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-11-005",
+      "date": "2026-10-11",
+      "category": "Enerji",
+      "categoryIcon": "⚡",
+      "title": "BloombergNEF Turkey Transition Factbook 2026: Clean Power Growth",
+      "summary": "Turkey's industrial sector faces growing pressure to reduce emissions as international carbon regulations become stricter. The country is positioning itself for the next phase of energy transition with clean power growth initiatives.",
+      "source": "BloombergNEF",
+      "sourceUrl": "https://about.bnef.com/insights/clean-energy/bloombergnef-turkey-transition-factbook-2026-clean-power-growth-positions-turkey-for-the-next-phase-of-its-energy-transition",
+      "tags": [
+        "energy transition",
+        "clean energy",
+        "emissions reduction"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-11-006",
+      "date": "2026-10-11",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Türkiye'de İklim Değişikliği Algısı Raporu 2026",
+      "summary": "2026 yılında yayınlanan rapor, Türkiye toplumunun iklim değişikliğine ilişkin algısını, endişe düzeylerini ve tepkilerini analiz etmektedir. Bu veriler, iklim politikalarının kamuoyu tabanını anlamada önemli bir kaynak oluşturmaktadır.",
+      "source": "Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DUaGDgFDSeM",
+      "tags": [
+        "climate perception",
+        "public awareness",
+        "survey"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-10-11-007",
+      "date": "2026-10-11",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "Türkiye'nin sürdürülebilir yatırım konumu",
+      "summary": "Türkiye, ESG kriterleri ve çok taraflı bankalar açısından yatırım yapılabilir bir ülke konumundadır. Ulusal ve uluslararası düzenlemeler, sürdürülebilir finansman akışlarını teşvik etmektedir.",
+      "source": "Entegre Raporlama Derneği Türkiye",
+      "sourceUrl": "https://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
+      "tags": [
+        "sustainable finance",
+        "ESG",
+        "investment"
+      ],
+      "importance": "medium"
+    },
     {
       "id": "2026-10-10-001",
       "date": "2026-10-10",
@@ -2799,120 +2913,6 @@
         "TSRS",
         "mevzuat",
         "bülten"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-21-004",
-      "date": "2026-09-21",
-      "category": "Sirket Haberleri",
-      "categoryIcon": "🏢",
-      "title": "2026 Türkiye Sürdürülebilirlik Rotası - Yeşil İş Platformu",
-      "summary": "7-10 Mayıs 2026 tarihleri arasında IDEX İstanbul'da düzenlenecek fuar sektörel bazda sürdürülebilirlik örneklerini sunacaktır. Tıbbi atık yönetimi gibi konular ele alınacaktır.",
-      "source": "Yeşil İş Platformu",
-      "sourceUrl": "https://yesilisplatformu.com/2026-turkiye-surdurulebilirlik-rotasi",
-      "tags": [
-        "etkinlik",
-        "atık",
-        "endüstri"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-09-21-005",
-      "date": "2026-09-21",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "Sürdürülebilir Kalkınma Raporu 2026 Yayımlandı",
-      "summary": "İSO tarafından yayımlanan Sürdürülebilir Kalkınma Raporu 2026'ya göre Türkiye'de yoksullukla mücadele, sanayi ve inovasyon alanlarında güçlü göstergeler yer almaktadır.",
-      "source": "İSO Yeşil Blog",
-      "sourceUrl": "https://www.isoyesilblog.com/surdurulebilir-kalkinmanin-hayata-gecirilmesi-2030-ve-otesi-baslikli-surdurulebilir-kalkinma-raporu-2026-yayimlandi",
-      "tags": [
-        "rapor",
-        "kalkınma",
-        "göstergeler"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-09-21-006",
-      "date": "2026-09-21",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye İklim Kanunu",
-      "summary": "Türkiye'nin ilk İklim Kanunu ile yerel iklim değişikliği eylem planlarının hazırlanması öngörülmektedir. Planların 31/12/2027 tarihine kadar tamamlanması gerekmektedir.",
-      "source": "CASEM ESG",
-      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
-      "tags": [
-        "iklim",
-        "kanun",
-        "eylem planı"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-21-007",
-      "date": "2026-09-21",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Kanunu Yükümlülükleri: Şirketleri 2026–2030 Arasında Ne Bekliyor?",
-      "summary": "2026 yılının en kritik gelişmesi olarak 27 Ağustos 2026 tarihli ETS Yönetmeliği ve İzleme Metodolojisi Planı sunulmaktadır. 2026-2030 döneminde şirketleri bekleyen iklim kanunu yükümlülükleri detaylı şekilde açıklanmaktadır.",
-      "source": "Greenix",
-      "sourceUrl": "https://greenix.com.tr/blog/iklim-kanunu-yukumlulukleri-sirketleri-2026-2030-arasinda-ne-bekliyor",
-      "tags": [
-        "iklim",
-        "kanun",
-        "ETS",
-        "yükümlülük"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-21-008",
-      "date": "2026-09-21",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye'nin İlk İklim Kanunu TBMM'de Kabul Edildi",
-      "summary": "Türkiye Büyük Millet Meclisi tarafından Türkiye'nin ilk İklim Kanunu kabul edilmiş ve yürürlüğe konulmuştur. Sıfır Atık Sıfır Atık hedefleri kapsamında çevre politikaları güçlendirilmektedir.",
-      "source": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
-      "sourceUrl": "https://csb.gov.tr/haberler/turkiyenin-ilk-iklim-kanunu-tbmm-de-kabul-edildi-302036",
-      "tags": [
-        "iklim",
-        "kanun",
-        "mevzuat",
-        "sıfır atık"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-20-001",
-      "date": "2026-09-20",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye'de sürdürülebilirlikte yeni zorunlu dönem başlıyor",
-      "summary": "2026'dan itibaren gübre, elektrik ve hidrojen gibi ürünleri ihraç eden şirketler, üretimindeki her bir ton karbon salımı için bedel ödeyecek. Bu yeni düzenleme ihraçatçıları karbon maliyetleriyle karşı karşıya getirecek.",
-      "source": "YouTube",
-      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
-      "tags": [
-        "CBAM",
-        "karbon fiyatlandırması",
-        "ihracat"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-20-002",
-      "date": "2026-09-20",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "TSRS Nedir? Türkiye'de Sürdürülebilirlik Raporlaması 2026 Rehberi",
-      "summary": "TSRS uyumlu sürdürülebilirlik raporu 2024 verilerinden 2026'ya hazırlanacak ve finansal tablalarla aynı dönemi kapsayacaktır. Yeni raporlama takvimi şirketleri kapsamlı bir hazırlanma sürecine alacak.",
-      "source": "ENOPTIMAL",
-      "sourceUrl": "https://enoptimal.com/tr/blog/tsrs-surdurulebilirlik-raporlamasi-rehberi",
-      "tags": [
-        "TSRS",
-        "raporlama standartları",
-        "2026"
       ],
       "importance": "high"
     }
