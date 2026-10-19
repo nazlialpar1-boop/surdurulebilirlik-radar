@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-10-18",
+  "lastUpdated": "2026-10-19",
   "updates": [
+    {
+      "id": "2026-10-19-001",
+      "date": "2026-10-19",
+      "category": "AB Regulasyonları",
+      "categoryIcon": "🇪🇺",
+      "title": "Türkiye İklim Regülasyon Takvimi 2026-2027",
+      "summary": "Türkiye'de iklim düzenlemeleri 17 Ocak 2025 tarihli Sürdürülebilirlik Denetimi Yönetmeliği ile çerçevelenmiştir. 28 Temmuz 2026'de Resmî Gazete'de yayımlanan düzenlemeler ile birlikte yeni bir dönem başlamaktadır.",
+      "source": "Alkazar",
+      "sourceUrl": "https://alkazar.com.tr/iklim-regulasyon-takvimi",
+      "tags": [
+        "iklim",
+        "regülasyon",
+        "takvim"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-19-002",
+      "date": "2026-10-19",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "Türkiye Yeşil Taksonomi Düzenlemesi Yayımlandı",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 24 Eylül 2026'de Türkiye Yeşil Taksonomi Düzenlemesini yayımlamıştır. Bu düzenleme ESG standartlarına uygun yatırım sınıflandırmasını belirlemektedir.",
+      "source": "ESIN Avukatlık",
+      "sourceUrl": "https://www.esin.av.tr/2026/09/29/turkiye-publishes-green-taxonomy-regulation",
+      "tags": [
+        "taksonomi",
+        "yeşil finans",
+        "ESG"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-19-003",
+      "date": "2026-10-19",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartlarının Uygulama Eşiklerinde Değişiklik",
+      "summary": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu, 16 Ocak 2026'de TSRS uygulama eşiklerinde değişiklik yapan karar yayımlamıştır. Bu değişiklik raporlama kapsamını ve yükümlülükleri etkilemektedir.",
+      "source": "Pekin Bayar Mizrahi Avukatlık",
+      "sourceUrl": "https://pekin.com.tr/2026/01/20/turkiye-surdurulebilirlik-raporlama-standartlarinin-uygulama-esiklerinde-degisiklik-yapildi",
+      "tags": [
+        "raporlama",
+        "TSRS",
+        "standartlar"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-19-004",
+      "date": "2026-10-19",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
+      "summary": "2026'da karbon maliyetleri ve 2027'de Türkiye Emisyon sistemi başlamaktadır. Türkiye'nin sürdürülebilirlik hedefleri ve AB uyum zorunlulukları şirketleri etkileyecektir.",
+      "source": "YouTube - Sürdürülebilirlik Kanalı",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40&xstg=CAMSBhUDzO3xHw%3D%3D",
+      "tags": [
+        "karbon",
+        "emisyon",
+        "iklim kanunu"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-19-005",
+      "date": "2026-10-19",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "ESG Nedir? 2026 ÇSY ve Raporlama Rehberi",
+      "summary": "Raporlama amacının belirlenmesi, TSRS kapsamı, müşteri talebi, finansman ve CSRD/ESRS hazırlığı için rehber sunulmaktadır. ESG boyutları ve uygulama adımları detaylı olarak açıklanmaktadır.",
+      "source": "Green Carbon AI",
+      "sourceUrl": "https://www.greencarbonai.com/blog/esg-nedir",
+      "tags": [
+        "ESG",
+        "raporlama",
+        "TSRS",
+        "CSRD"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-10-19-006",
+      "date": "2026-10-19",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu",
+      "summary": "İklim kanunu kapsamında yerel iklim değişikliği eylem planları en geç 31 Aralık 2027 tarihine kadar hazırlanmalıdır. Kanun şirketlere ve kamu kurumlarına belirli yükümlülükler getirmektedir.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "iklim kanunu",
+        "eylem planı"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-19-007",
+      "date": "2026-10-19",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Kanunu Yükümlülükleri: Şirketleri 2026–2030 Arasında Ne Bekliyor?",
+      "summary": "2026'da ETS Yönetmeliği ve İzleme Metodolojisi Planı uygulamaya girmektedir. Şirketlerin 2026-2030 döneminde iklim kanunu yükümlülükleri detaylı takvim ile açıklanmaktadır.",
+      "source": "Greenix",
+      "sourceUrl": "https://greenix.com.tr/blog/iklim-kanunu-yukumlulukleri-sirketleri-2026-2030-arasinda-ne-bekliyor",
+      "tags": [
+        "iklim kanunu",
+        "ETS",
+        "takvim"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-19-008",
+      "date": "2026-10-19",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "Türkiye Sürdürülebilir Yatırım Hedefi",
+      "summary": "Türkiye, sürdürülebilir fonlar, ESG kriterleri ve çok taraflı bankalar açısından yatırım yapılabilir bir ülke konumundadır. Ulusal ve uluslararası düzenlemeler ülkeyi çekici kılmaktadır.",
+      "source": "Entegre Raporlama Derneği Türkiye",
+      "sourceUrl": "https://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
+      "tags": [
+        "ESG",
+        "sürdürülebilir yatırım",
+        "finans"
+      ],
+      "importance": "medium"
+    },
     {
       "id": "2026-10-18-001",
       "date": "2026-10-18",
@@ -2788,134 +2916,6 @@
         "AB Uyumu"
       ],
       "importance": "high"
-    },
-    {
-      "id": "2026-09-29-002",
-      "date": "2026-09-29",
-      "category": "Raporlama",
-      "categoryIcon": "📋",
-      "title": "TSRS Nedir? Türkiye'de Sürdürülebilirlik Raporlaması 2026 Rehberi",
-      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları kapsamında 2024 verisinden 2026'ya raporlama takvimi açıklanmıştır. TSRS uyumlu raporlar finansal tablolarla aynı dönem içinde sunulacaktır.",
-      "source": "ENOPTIMAL",
-      "sourceUrl": "https://enoptimal.com/tr/blog/tsrs-surdurulebilirlik-raporlamasi-rehberi",
-      "tags": [
-        "TSRS",
-        "Raporlama",
-        "Standartlar"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-29-003",
-      "date": "2026-09-29",
-      "category": "Raporlama",
-      "categoryIcon": "📋",
-      "title": "ÇSY Bülteni 2026 1. Çeyrek - Türkiye Sürdürülebilirlik Raporlama Standartları",
-      "summary": "16 Ocak 2026 tarihli Resmî Gazete'de yayımlanan ÇSY (Çevresel, Sosyal, Yönetim) bülteni, Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulama kapsamını belirlemektedir.",
-      "source": "Erdem&Erdem",
-      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
-      "tags": [
-        "ÇSY",
-        "Raporlama",
-        "Yasal Gereklilik"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-29-004",
-      "date": "2026-09-29",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
-      "summary": "2026'da karbon maliyetleri başlamakta, 2027'de Türkiye Emisyon Ticaret Sistemi uygulanmaktadır. AB uyum zorunlulukları ve Türkiye'nin sürdürülebilirlik hedefleri yeni bir dönemi işaret etmektedir.",
-      "source": "YouTube",
-      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
-      "tags": [
-        "Karbon",
-        "ETS",
-        "İklim Kanunu"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-29-005",
-      "date": "2026-09-29",
-      "category": "Raporlama",
-      "categoryIcon": "📋",
-      "title": "Sürdürülebilir Kalkınma Raporu 2026 Yayımlandı",
-      "summary": "İSO tarafından yayımlanan rapor, Türkiye'de yoksullukla mücadele, sanayi, inovasyon ve altyapı konularında güçlü ilerleme göstermektedir. 2030 ve sonrası hedefleri belirlenmektedir.",
-      "source": "ISO Yeşil Blog",
-      "sourceUrl": "https://www.isoyesilblog.com/surdurulebilir-kalkinmanin-hayata-gecirilmesi-2030-ve-otesi-baslikli-surdurulebilir-kalkinma-raporu-2026-yayimlandi",
-      "tags": [
-        "Sürdürülebilir Kalkınma",
-        "Raporlama",
-        "SDG"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-09-29-006",
-      "date": "2026-09-29",
-      "category": "Raporlama",
-      "categoryIcon": "📋",
-      "title": "ESG Nedir? 2026 ÇSY ve Raporlama Rehberi",
-      "summary": "TSRS kapsamı, müşteri talebi, finansman ve CSRD/ESRS hazırlığı çerçevesinde ESG raporlamasının ilk adımları ve 3 boyutlu yaklaşım açıklanmaktadır.",
-      "source": "Green Carbon AI",
-      "sourceUrl": "https://www.greencarbonai.com/blog/esg-nedir",
-      "tags": [
-        "ESG",
-        "ÇSY",
-        "Raporlama"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-09-29-007",
-      "date": "2026-09-29",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Kanunu Yükümlülükleri: Şirketleri 2026–2030 Arasında Ne Bekliyor?",
-      "summary": "2026 yılında ETS Yönetmeliği ve İzleme Metodolojisi Planı uygulanacaktır. 27 Ağustos 2026 tarihli kararla yılın en kritik gelişmeleri başlamaktadır.",
-      "source": "Greenix",
-      "sourceUrl": "https://greenix.com.tr/blog/iklim-kanunu-yukumlulukleri-sirketleri-2026-2030-arasinda-ne-bekliyor",
-      "tags": [
-        "İklim Kanunu",
-        "ETS",
-        "Emisyon"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-29-008",
-      "date": "2026-09-29",
-      "category": "Karbon & Iklim",
-      "categoryIcon": "🌍",
-      "title": "Net Sıfır Emisyon Hedefinin İşletmelere Getirdiği Yükümlülükler",
-      "summary": "Türkiye, AB'ye paralel biçimde sera gazı emisyonlarına ekonomik maliyet getirecek bir Ulusal Emisyon Ticaret Sistemi uygulamaktadır. İç piyasada rekabet eşitliğini sağlamayı hedeflemektedir.",
-      "source": "Aksak Partners",
-      "sourceUrl": "https://aksakpartners.com/iklim-kanunu-ve-cdrs-kapsaminda-net-sifir-emisyon-hedefinin-isletmelere-getirdigi-yukumlulukler-surdurulebilirlik-raporlamasi-ve-emisyon-ticaret-sistemi",
-      "tags": [
-        "Net Sıfır",
-        "ETS",
-        "Karbon Fiyatlandırması"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-09-29-009",
-      "date": "2026-09-29",
-      "category": "Finans & Taksonomi",
-      "categoryIcon": "💰",
-      "title": "Entegre Raporlama Derneği Türkiye - Yatırım Yapılabilirliği",
-      "summary": "Türkiye, sürdürülebilir fonlar, ESG kriterleri ve çok taraflı bankalar açısından yatırım yapılabilir bir ülke konumundadır. Ulusal ve uluslararası düzlemde finansal fırsatlar artmaktadır.",
-      "source": "Entegre Raporlama Derneği Türkiye",
-      "sourceUrl": "https://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
-      "tags": [
-        "ESG",
-        "Finans",
-        "Sürdürülebilir Yatırım"
-      ],
-      "importance": "medium"
     }
   ]
 }
