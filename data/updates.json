@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-29",
   "updates": [
+    {
+      "id": "2026-10-29-001",
+      "date": "2026-10-29",
+      "category": "AB Regulasyonlari",
+      "categoryIcon": "📋",
+      "title": "Türkiye'de sürdürülebilirlikte yeni zorunlu dönem başlıyor",
+      "summary": "2026 yılında Türkiye'deki ihracatçılar için yeni sürdürülebilirlik düzenlemeleri yürürlüğe girmektedir. Avrupa Birliği'nin getirdiği zorunluluklarla işletmelerin uyum süreci başlamıştır.",
+      "source": "YouTube",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
+      "tags": [
+        "AB regulasyonları",
+        "ihracat",
+        "uyum"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-29-002",
+      "date": "2026-10-29",
+      "category": "AB Regulasyonlari",
+      "categoryIcon": "📋",
+      "title": "Sürdürülebilirlik Regulasyonlarında Kritik Duraklar: 2025-2026 Analizi",
+      "summary": "2026 yılı dijitalleşmenin yeşil dönüşümle birleştiği bir eylem yılı olarak öngörülmektedir. Artan regülasyonlar artık yasal bir gereklilik haline gelmiştir.",
+      "source": "Zorlu Akıllı Hayat",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "dijitalleşme",
+        "yeşil dönüşüm",
+        "yasal gereklilik"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-29-003",
+      "date": "2026-10-29",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu Yürürlüğe Girdi: Şirketler İçin Zorunluluklar ve Fırsatlar",
+      "summary": "Türkiye İklim Kanunu yürürlüğe girdikçe karbon yoğun sektörlerin (çelik, alüminyum, çimento) SKDM kapsamında karbon emisyonlarını ürün bazında raporlaması zorunlu hale gelmiştir.",
+      "source": "ATP Tech",
+      "sourceUrl": "https://www.atptech.com/turkiye-iklim-kanunu-yururluge-girdi-sirketler-icin-zorunluluklar-firsatlar-ve-uyum-rehberi",
+      "tags": [
+        "iklim kanunu",
+        "karbon raporlama",
+        "SKDM"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-29-004",
+      "date": "2026-10-29",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye'de İklim Değişikliği Algısı Raporu 2026 Yayınlandı",
+      "summary": "2026 raporu net sıfır hedefine ilerleme, karbon gideriminin yönetimi ve iklim uyum kapasitesinin güçlendirilmesinin gerekliliğini vurgulamaktadır. 1.8°C ve 2°C senaryoları analiz edilmektedir.",
+      "source": "Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DUaGDgFDSeM",
+      "tags": [
+        "net sıfır",
+        "karbon giderimi",
+        "iklim uyumu"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-10-28-001",
       "date": "2026-10-28",
@@ -2845,70 +2909,6 @@
         "Yatırım"
       ],
       "importance": "medium"
-    },
-    {
-      "id": "2026-10-09-001",
-      "date": "2026-10-09",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "ÇSY Bülteni 2026 1. Çeyrek Yayımlandı",
-      "summary": "16.01.2026 tarihli Resmî Gazete'de Türkiye Sürdürülebilirlik Raporlama Standartlarının Uygulama Kapsamı belirlenmiştir. Bu standartlar işletmelerin raporlama yükümlülüklerini tanımlamaktadır.",
-      "source": "Erdem&Erdem",
-      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
-      "tags": [
-        "raporlama",
-        "standartlar",
-        "işletmeler"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-09-002",
-      "date": "2026-10-09",
-      "category": "Sirket Haberleri",
-      "categoryIcon": "🏢",
-      "title": "PROJE ÇAĞRISI: ÇEVRE 2026",
-      "summary": "Fransa'nın Türkiye Büyükelçiliği tarafından çevre koruma ve sürdürülebilirlik alanında proje çağrısı açılmıştır. Türkiye AR-GE Vakfı aracılığıyla desteklenen bu girişim çevre projeleri için fırsat sunmaktadır.",
-      "source": "Türkiye AR-GE Vakfı",
-      "sourceUrl": "https://www.turkiyeargevakfi.org/blog/ifturquie-cevre-2026",
-      "tags": [
-        "çevre",
-        "proje",
-        "işbirliği"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-10-09-003",
-      "date": "2026-10-09",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "Sürdürülebilir Kalkınma Raporu 2026 Yayımlandı",
-      "summary": "İSO tarafından yayımlanan rapor, Türkiye'nin yoksullukla mücadele, sanayi, inovasyon ve altyapı alanlarında güçlü göstergeler sunmaktadır. 2030 vizyonu kapsamında sürdürülebilir kalkınmanın hayata geçirilmesi analiz edilmektedir.",
-      "source": "İSO Yeşil Blog",
-      "sourceUrl": "https://www.isoyesilblog.com/surdurulebilir-kalkinmanin-hayata-gecirilmesi-2030-ve-otesi-baslikli-surdurulebilir-kalkinma-raporu-2026-yayimlandi",
-      "tags": [
-        "kalkınma",
-        "raporlama",
-        "2030 hedefleri"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-09-004",
-      "date": "2026-10-09",
-      "category": "Orman & Biyocesitlilik",
-      "categoryIcon": "🌍",
-      "title": "Marmara Sürdürülebilir Çevre Sempozyumu 2026",
-      "summary": "Türkiye'nin COP31 ev sahipliği vizyonu kapsamında Marmara Denizi bölgesel ve küresel ölçekte örnek bir dönüşüm alanı olarak sunulmaktadır. Sempozyum çevre koruma ve sürdürülebilirliğe odaklanmaktadır.",
-      "source": "Marmara Sürdürülebilir Çevre Sempozyumu",
-      "sourceUrl": "https://marsurcevsem.org/tr",
-      "tags": [
-        "Marmara Denizi",
-        "COP31",
-        "çevre"
-      ],
-      "importance": "high"
     }
   ]
 }
