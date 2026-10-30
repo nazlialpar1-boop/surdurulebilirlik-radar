@@ -1,6 +1,105 @@
 {
-  "lastUpdated": "2026-10-29",
+  "lastUpdated": "2026-10-30",
   "updates": [
+    {
+      "id": "2026-10-30-001",
+      "date": "2026-10-30",
+      "category": "AB Regulasyonlari",
+      "categoryIcon": "🇪🇺",
+      "title": "Türkiye'de sürdürülebilirlikte yeni zorunlu dönem başlıyor",
+      "summary": "2026 yılı itibarıyla Türkiye'deki ihracatçılar için yeni sürdürülebilirlik zorunlulukları başlamıştır. Avrupa Birliği düzenlemelerine uyum süreci geri sayımı başlamıştır.",
+      "source": "YouTube",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
+      "tags": [
+        "2026",
+        "ihracat",
+        "AB uyumu",
+        "zorunluluk"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-30-002",
+      "date": "2026-10-30",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "İşletmeler İçin Kritik Değişiklikler ve Uyum Süreci 2026 yılı",
+      "summary": "2026 yılından itibaren ÇED süreçleri, atık yönetimi, çevre izinleri, raporlama sistemleri ve sürdürülebilirlik uygulamaları ön plana çıkmaktadır. İşletmeler kapsamlı uyum süreci ile karşı karşıyadır.",
+      "source": "Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DX46LdmiOm0",
+      "tags": [
+        "uyum",
+        "ÇED",
+        "atık",
+        "raporlama"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-30-003",
+      "date": "2026-10-30",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "2026'da Sürdürülebilirlikte Öne Çıkanlar & Geride Kalanlar",
+      "summary": "Sanda Ojiambo tarafından açıklanan 2026 yılı mektubu, sürdürülebilirliğin iş gerekçesi olarak önemini vurgulamakta ve UN Global Compact'in 2026-2030 dönem stratejisini açıklamaktadır.",
+      "source": "LinkedIn",
+      "sourceUrl": "https://www.linkedin.com/pulse/2026da-s%C3%BCrd%C3%BCr%C3%BClebilirlikte-%C3%B6ne-%C3%A7%C4%B1kanlar-g5fkf",
+      "tags": [
+        "UN Global Compact",
+        "strateji",
+        "2026-2030"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-10-30-004",
+      "date": "2026-10-30",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "ÇSY Bülteni 2026 1. Çeyrek",
+      "summary": "Resmî Gazete'de yayımlanan Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulama kapsamı belirlenmektedir. 16.01.2026 tarihli 33139 sayılı yayın ile ilgili bilgiler sunulmaktadır.",
+      "source": "Erdem&Erdem",
+      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
+      "tags": [
+        "TSRS",
+        "raporlama standartları",
+        "resmi gazete"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-30-005",
+      "date": "2026-10-30",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "İklim Kanunu Nedir? Türkiye'de İklim Yasası Nasıl Uygulanıyor?",
+      "summary": "Türkiye'de iklim kanunu ve yasasının uygulanması hakkında kapsamlı bilgi sunulmaktadır. Karbon yönetimi ve iklim politikaları açıklanmaktadır.",
+      "source": "CimpactPro",
+      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulaniyor",
+      "tags": [
+        "iklim kanunu",
+        "CBAM",
+        "karbon"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-10-30-006",
+      "date": "2026-10-30",
+      "category": "Karbon & Iklim",
+      "categoryIcon": "🌍",
+      "title": "TÜRKİYE'NİN İLK İKLİM KANUNU TBMM'DE KABUL EDİLDİ",
+      "summary": "Türkiye'nin ilk iklim kanunu TBMM tarafından kabul edilmiştir. Sıfır Atık'tan COP31'e kadar uzanan Türkiye'nin iklim diplomasisi paneli gerçekleştirilmektedir.",
+      "source": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "sourceUrl": "https://csb.gov.tr/haberler/turkiyenin-ilk-iklim-kanunu-tbmm-de-kabul-edildi-302036",
+      "tags": [
+        "iklim kanunu",
+        "TBMM",
+        "COP31",
+        "sıfır atık"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-10-29-001",
       "date": "2026-10-29",
@@ -2813,102 +2912,6 @@
         "Uygulama"
       ],
       "importance": "high"
-    },
-    {
-      "id": "2026-10-10-004",
-      "date": "2026-10-10",
-      "category": "Finans & Taksonomi",
-      "categoryIcon": "💚",
-      "title": "Türkiye Yeşil Taksonomisi Yönetmeliği Yayımlandı",
-      "summary": "24 Eylül 2026 tarihli Resmî Gazete'de Türkiye Yeşil Taksonomisi Yönetmeliği yayımlanmıştır. Uygulama eşiklerinde değişiklikler yapılmıştır.",
-      "source": "Pekin Hukuk Bürosu",
-      "sourceUrl": "https://pekin.com.tr/2026/01/20/turkiye-surdurulebilirlik-raporlama-standartlarinin-uygulama-esiklerinde-degisiklik-yapildi",
-      "tags": [
-        "Yeşil Taksonomi",
-        "Yasal Düzenleme",
-        "Sürdürülebilir Finans"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-10-005",
-      "date": "2026-10-10",
-      "category": "Raporlama",
-      "categoryIcon": "📋",
-      "title": "Sürdürülebilir Kalkınma Raporu 2026 Yayımlandı",
-      "summary": "Türkiye'nin Sürdürülebilir Kalkınma Raporu 2026 yayımlanmıştır. SDG Endeksi'nde Türkiye 169 ülke arasında 77. sırada yer almaktadır.",
-      "source": "ISO Yeşil Blog",
-      "sourceUrl": "https://www.isoyesilblog.com/surdurulebilir-kalkinmanin-hayata-gecirilmesi-2030-ve-otesi-baslikli-surdurulebilir-kalkinma-raporu-2026-yayimlandi",
-      "tags": [
-        "Sürdürülebilir Kalkınma",
-        "SDG",
-        "Uluslararası Karşılaştırma"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-10-006",
-      "date": "2026-10-10",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye İklim Kanunu Yürürlüğe Girdi",
-      "summary": "Türkiye İklim Kanunu'yla şirketler Emisyon Ticaret Sistemi mevzuatından etkilenmektedir. Yoğun sera gazı salımı yapan sektörler özel düzenlemelere tabi olacaktır.",
-      "source": "CASEM ESG",
-      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
-      "tags": [
-        "İklim Kanunu",
-        "Emisyon Ticaret",
-        "Sera Gazı"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-10-007",
-      "date": "2026-10-10",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Kanunu: Şirketler İçin Zorunluluklar ve Fırsatlar",
-      "summary": "AB Sınırda Karbon Düzenleme Mekanizması (SKDM) uygulaması kapsamında karbon yoğun sektörler etkilenmektedir. Türkiye'nin uyum stratejisi tanımlanmıştır.",
-      "source": "ATP Technology",
-      "sourceUrl": "https://www.atptech.com/turkiye-iklim-kanunu-yururluge-girdi-sirketler-icin-zorunluluklar-firsatlar-ve-uyum-rehberi",
-      "tags": [
-        "İklim Kanunu",
-        "Karbon Mekanizması",
-        "AB Uyum"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-10-008",
-      "date": "2026-10-10",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye İklim Değişikliği Algısı Raporu 2026",
-      "summary": "Türkiye toplumunun iklim değişikliğine ilişkin algısını ve endişe düzeylerini ölçen 2026 raporu yayımlanmıştır. Geleceğe hazırlanmak için güçlü veri temeli sunmaktadır.",
-      "source": "Instagram",
-      "sourceUrl": "https://www.instagram.com/p/DUaGDgFDSeM",
-      "tags": [
-        "İklim Değişikliği",
-        "Halk Algısı",
-        "Araştırma"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-10-10-009",
-      "date": "2026-10-10",
-      "category": "Finans & Taksonomi",
-      "categoryIcon": "💚",
-      "title": "Türkiye Sürdürülebilir Yatırım Açısından Uygun Konumda",
-      "summary": "Türkiye sürdürülebilir fonlar, ESG kriterleri ve çok taraflı bankalar açısından yatırım yapılabilir bir ülke konumundadır. Ulusal ve uluslararası düzeyinde ilerleme sağlanmaktadır.",
-      "source": "Entegre Raporlama Derneği Türkiye",
-      "sourceUrl": "https://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
-      "tags": [
-        "ESG",
-        "Sürdürülebilir Finans",
-        "Yatırım"
-      ],
-      "importance": "medium"
     }
   ]
 }
