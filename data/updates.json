@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-10-31",
   "updates": [
+    {
+      "id": "2026-10-31-001",
+      "date": "2026-10-31",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) 2026 Zorunluluk Hadleri Açıklandı",
+      "summary": "KGK tarafından belirlenen TSRS 2026 zorunluluk hadleri ve sera gazı emisyonu açıklamaları yapılmıştır. Büyük şirketler için artık yasal yükümlülük haline gelen TSRS raporlaması kapsamında şirketlerin iklimle ilgili risk ve fırsatları şeffaf biçimde raporlaması gerekmektedir.",
+      "source": "İstanbul Mali Müşavirlik Odası",
+      "sourceUrl": "https://www.istanbulmalimusavirlik.net/2026-surdurulebilirlik-raporu-hadleri-ve-kgk-karari",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "2026 hedefleri",
+        "KGK"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-31-002",
+      "date": "2026-10-31",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "2026 Sürdürülebilirlik Raporlaması Muafiyetlerine İlişkin Kurul Kararları",
+      "summary": "Kurum tarafından 2026 yılı sürdürülebilirlik raporlaması muafiyetlerine ilişkin kurul kararları açıklanmıştır. TSRS uyumlu raporlama gereklilikleri hakkında detaylı bilgiler paylaşılmıştır.",
+      "source": "KGK - Kuruluş Yeminli Mali Müşavirler Odası",
+      "sourceUrl": "https://kgk.gov.tr/Portalv2Uploads/files/Duyurular/v2/Surdurulebilirlik/Duyuru/Duyuru+-+41.pdf",
+      "tags": [
+        "TSRS",
+        "muafiyet",
+        "2026"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-31-003",
+      "date": "2026-10-31",
+      "category": "Raporlama",
+      "categoryIcon": "📋",
+      "title": "TSRS Raporlaması 2026: Kapsam ve Uygulama Detayları",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standartları (TSRS) kapsamında hangi şirketlerin kapsam içinde olduğu, raporlama zamanlaması ve yöntemi hakkında bilgiler sunulmaktadır. KGK'nin Ocak 2026'da güncellediği eşikler dikkate alınması gerekmektedir.",
+      "source": "ESG360",
+      "sourceUrl": "https://esg360.com.tr/tsrs-raporlamasi-2026-kimler-kapsamda",
+      "tags": [
+        "TSRS",
+        "raporlama",
+        "zorunluluk"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-10-31-004",
+      "date": "2026-10-31",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "TSRS ile İklim Riski Yönetimi ve Sera Gazı Emisyonu Raporlaması",
+      "summary": "TSRS 1 ve TSRS 2 standartlarına göre kapsama giren şirketler için iklimle ilgili risk ve fırsatların şeffaf biçimde raporlanması zorunludur. Uyum sağlamak için şirketlere danışmanlık hizmetleri sunulmaktadır.",
+      "source": "Ecowa Solutions",
+      "sourceUrl": "https://www.ecowasolutions.com/surdurulebilirlik-yonetimi-esg/tsrs-uyum-ve-iklim-risk-analizi",
+      "tags": [
+        "iklim riski",
+        "sera gazı",
+        "TSRS",
+        "emisyon"
+      ],
+      "importance": "high"
+    },
     {
       "id": "2026-10-30-001",
       "date": "2026-10-30",
@@ -2848,70 +2914,6 @@
         "survey"
       ],
       "importance": "medium"
-    },
-    {
-      "id": "2026-10-11-007",
-      "date": "2026-10-11",
-      "category": "Finans & Taksonomi",
-      "categoryIcon": "💰",
-      "title": "Türkiye'nin sürdürülebilir yatırım konumu",
-      "summary": "Türkiye, ESG kriterleri ve çok taraflı bankalar açısından yatırım yapılabilir bir ülke konumundadır. Ulusal ve uluslararası düzenlemeler, sürdürülebilir finansman akışlarını teşvik etmektedir.",
-      "source": "Entegre Raporlama Derneği Türkiye",
-      "sourceUrl": "https://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
-      "tags": [
-        "sustainable finance",
-        "ESG",
-        "investment"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-10-10-001",
-      "date": "2026-10-10",
-      "category": "Raporlama",
-      "categoryIcon": "📋",
-      "title": "ÇSY Bülteni 2026 1. Çeyrek Yayımlandı",
-      "summary": "16.01.2026 tarihli Resmî Gazete'de Türkiye Sürdürülebilirlik Raporlama Standartlarının Uygulama Kapsamı belirlenmiştir. Yeni standartlar şirketlerin raporlama yükümlülüklerini düzenlemektedir.",
-      "source": "Erdem&Erdem",
-      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
-      "tags": [
-        "Raporlama Standartları",
-        "Türkiye",
-        "Yasal Zorunluluk"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-10-002",
-      "date": "2026-10-10",
-      "category": "AB Regulasyonları",
-      "categoryIcon": "🇪🇺",
-      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
-      "summary": "2026 yılında Türkiye'deki ihracatçılar için Avrupa Birliği kaynaklı yeni sürdürülebilirlik zorunlulukları yürürlüğe girmektedir. Geri sayım başlamış durumdadır.",
-      "source": "YouTube",
-      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
-      "tags": [
-        "AB Düzenlemeleri",
-        "İhracat",
-        "Uyum"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-10-003",
-      "date": "2026-10-10",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Hedeflerini Uygulamaya Taşıma Zamanı",
-      "summary": "Türkiye'nin en kapsayıcı sürdürülebilirlik raporu 12 Haziran 2026'da yayımlanmıştır. 5 Haziran Dünya Çevre Günü ve 6 Haziran Türkiye Limit Aşım Günü önemli kilometre taşlarıdır.",
-      "source": "LinkedIn",
-      "sourceUrl": "https://tr.linkedin.com/pulse/iklim-hedeflerini-uygulamaya-ta%C5%9F%C4%B1ma-zaman%C4%B1-irkuf",
-      "tags": [
-        "İklim Hedefleri",
-        "Çevre Günü",
-        "Uygulama"
-      ],
-      "importance": "high"
     }
   ]
 }
