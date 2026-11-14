@@ -1,6 +1,176 @@
 {
-  "lastUpdated": "2026-11-13",
+  "lastUpdated": "2026-11-14",
   "updates": [
+    {
+      "id": "2026-11-14-001",
+      "date": "2026-11-14",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Regülasyon Takvimi 2026-2027",
+      "summary": "SKDM (Sınırda Karbon Düzenleme Mekanizması) kesin dönem 1 Ocak 2026'da başladı. Çimento, demir-çelik, alüminyum, gübre, elektrik ve hidrojen sektörleri kapsamında yer almakta, yılda 50 tonun üzerindeki ithalatlar etkilenmektedir.",
+      "source": "Alkazar",
+      "sourceUrl": "https://alkazar.com.tr/iklim-regulasyon-takvimi",
+      "tags": [
+        "SKDM",
+        "karbon",
+        "ithalat",
+        "2026",
+        "sektörler"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-11-14-002",
+      "date": "2026-11-14",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "Sürdürülebilirlik Raporlama Türkiye 2026: TSRS Rehberi",
+      "summary": "CBAM kesin uygulama dönemine 1 Ocak 2026'da girmiştir. 2026 ithalatlarına ilişkin CBAM sertifikaları 1 Şubat 2027'de satışa sunulacaktır. İlk yıl geçiş döneminde yer almaktadır.",
+      "source": "EUROPECARBON",
+      "sourceUrl": "https://www.europecarbon.com/surdurulebilirlik-raporlama-turkiye-2026",
+      "tags": [
+        "CBAM",
+        "raporlama",
+        "sertifika",
+        "2027"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-11-14-003",
+      "date": "2026-11-14",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
+      "summary": "AB'nin 2050'ye kadar iklim nötr bir kıta olma hedefi ve bu stratejinin en önemli adımı olan CBAM mekanizması hakkında bilgilendirme yapılmaktadır. Sınırda karbon ayarlaması sistemi yürürlüğe girmiştir.",
+      "source": "YouTube",
+      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
+      "tags": [
+        "CBAM",
+        "iklim nötr",
+        "AB stratejisi"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-11-14-004",
+      "date": "2026-11-14",
+      "category": "Enerji",
+      "categoryIcon": "⚡",
+      "title": "Policy Recommendations - Türkiye 2026 - IEA",
+      "summary": "IEA, büyük enerji tüketicileri için emisyon ticaret sistemi oluşturulmasını önermiştir. Bu sistem verimlilik artışı ve emisyon azaltımını teşvik ederken karbon vergisini de içermektedir.",
+      "source": "IEA",
+      "sourceUrl": "https://www.iea.org/reports/turkiye-2026/policy-recommendations",
+      "tags": [
+        "enerji",
+        "emisyon ticaret",
+        "karbon vergi",
+        "verimlilik"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-11-14-005",
+      "date": "2026-11-14",
+      "category": "AB Regulasyonları",
+      "categoryIcon": "📋",
+      "title": "Uyumun Yeni Rotası: 2025'ten 2026'ya Sürdürülebilirlik Regulasyonları",
+      "summary": "2025-2026 döneminde sürdürülebilirlik düzenlemelerinde kritik dönüm noktaları ve 2027 projeksiyonları detaylandırılmaktadır. Şirketlerin uyum süreci ve yeni yükümlülükleri hakkında kapsamlı rehber sunulmaktadır.",
+      "source": "Zorlu Akıllı Hayat",
+      "sourceUrl": "https://www.zorlu.com.tr/akillihayat2030/blog/surdurulebilirlik/yazilar/uyumun-yeni-rotasi-2025ten-2026ya-surdurulebilirlik-regulasyonlarinda-kritik-duraklar-ve-2027-projeksiyonu",
+      "tags": [
+        "düzenleme",
+        "uyum",
+        "2026-2027",
+        "projeksiyonu"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-11-14-006",
+      "date": "2026-11-14",
+      "category": "Ambalaj & Atık",
+      "categoryIcon": "♻️",
+      "title": "ESG Raporlama Yeni Standartlar 2026",
+      "summary": "Türkiye iklim kriziyle mücadelede öncü konumundadır. Bakan Kurum, sıfır atık ve gıda israfı konularında önemli açıklamalar yapmış, ülke genelinde 205 bin noktada atık yönetimi yapılmaktadır.",
+      "source": "Instagram",
+      "sourceUrl": "https://www.instagram.com/popular/esg-raporlama-yeni-standartlar-2026",
+      "tags": [
+        "sıfır atık",
+        "gıda israfı",
+        "ESG",
+        "2026"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "2026-11-14-007",
+      "date": "2026-11-14",
+      "category": "Karbon & İklim",
+      "categoryIcon": "🌍",
+      "title": "Türkiye İklim Kanunu Yürürlüğe Girdi: Şirketler İçin Zorunluluklar",
+      "summary": "AB'nin SKDM uygulaması, karbon yoğun sektörlerin (çelik, alüminyum, çimento vb.) karbon emisyonlarını ürün bazında raporlamasını zorunlu hale getirmektedir. Şirketler için uyum rehberi ve yükümlülükler detaylandırılmaktadır.",
+      "source": "ATP Tech",
+      "sourceUrl": "https://www.atptech.com/turkiye-iklim-kanunu-yururluge-girdi-sirketler-icin-zorunluluklar-firsatlar-ve-uyum-rehberi",
+      "tags": [
+        "İklim Kanunu",
+        "SKDM",
+        "karbon yoğun sektörler",
+        "ürün bazında raporlama"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-11-14-008",
+      "date": "2026-11-14",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "Türkiye İklim Kanunu - Emisyon Ticaret Sistemi",
+      "summary": "İklim Kanunu'nda şirketleri en çok ikincil mevzuat olan Emisyon Ticaret Sistemi etkileyecektir. Yüksek sera gazı salımı olan sektörler, petrol ürünleri ve enerji üreticileri kapsamında yer almaktadır.",
+      "source": "CASEM ESG",
+      "sourceUrl": "https://www.casem.com.tr/turkiye-iklim-kanunu",
+      "tags": [
+        "İklim Kanunu",
+        "Emisyon Ticaret Sistemi",
+        "sera gazı",
+        "enerji"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-11-14-009",
+      "date": "2026-11-14",
+      "category": "Raporlama",
+      "categoryIcon": "📊",
+      "title": "İklim Değişikliğinin Sürdürülebilir Kalkınmaya Etkisi",
+      "summary": "Türkiye Sürdürülebilirlik Raporlama Standardı oluşturulmakta, zorunlu raporlama yükümlülüğü getirilmekte ve Bilim Temelli Hedefler Girişimi kapsamında uyum sağlanmaktadır.",
+      "source": "Strateji ve Bütçe Başkanlığı",
+      "sourceUrl": "https://www.sbb.gov.tr/wp-content/uploads/2025/08/Iklim-Degisikliginin-Surdurulebilir-Kalkinmaya-Etkisi-Ozel-Ihtisas-Komisyonu-Raporu_01082025.pdf",
+      "tags": [
+        "TSRS",
+        "zorunlu raporlama",
+        "Bilim Temelli Hedefler",
+        "SBTi"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "2026-11-14-010",
+      "date": "2026-11-14",
+      "category": "Finans & Taksonomi",
+      "categoryIcon": "💰",
+      "title": "Entegre Raporlama Derneği Türkiye - Yatırım Kabiliyeti",
+      "summary": "Türkiye, sürdürülebilir fonlar, ESG kriterleri ve çok taraflı bankalar açısından yatırım yapılabilir bir ülke konumundadır. Ulusal ve uluslararası düzenlemelerle uyum sağlanmaktadır.",
+      "source": "Entegre Raporlama Derneği Türkiye",
+      "sourceUrl": "https://www.entegreraporlamatr.org/tr/guncel/2025/21032025.aspx",
+      "tags": [
+        "ESG",
+        "sürdürülebilir fonlar",
+        "yatırım",
+        "çok taraflı bankalar"
+      ],
+      "importance": "medium"
+    },
     {
       "id": "2026-11-13-001",
       "date": "2026-11-13",
@@ -2771,171 +2941,6 @@
         "emisyon",
         "raporlama",
         "pilot program"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-24-003",
-      "date": "2026-10-24",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "Türkiye Sürdürülebilirlik Raporlama Standartlarında Uygulama Eşikleri Değiştirildi",
-      "summary": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu, 16 Ocak 2026 tarihli Resmî Gazete'de Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulama eşiklerinde değişiklik yapan karar yayımlamıştır.",
-      "source": "Pekin Bayar Mizrahi Hukuk Müşavirliği",
-      "sourceUrl": "https://pekin.com.tr/2026/01/20/turkiye-surdurulebilirlik-raporlama-standartlarinin-uygulama-esiklerinde-degisiklik-yapildi",
-      "tags": [
-        "raporlama standartları",
-        "uygulama eşikleri",
-        "KGMK"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-24-004",
-      "date": "2026-10-24",
-      "category": "Sirket Haberleri",
-      "categoryIcon": "🏢",
-      "title": "Çevre 2026 Proje Çağrısı Başlatıldı",
-      "summary": "Fransa'nın Türkiye Büyükelçiliği tarafından çevre koruma ve sürdürülebilirlik konularında proje çağrısı yapılmıştır. Türkiye AR-GE Vakfı aracılığıyla bu fırsat sunulmaktadır.",
-      "source": "Türkiye AR-GE Vakfı",
-      "sourceUrl": "https://www.turkiyeargevakfi.org/blog/ifturquie-cevre-2026",
-      "tags": [
-        "proje çağrısı",
-        "çevre",
-        "Fransa işbirliği"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-10-24-005",
-      "date": "2026-10-24",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Hedeflerini Uygulamaya Taşıma Zamanı",
-      "summary": "Türkiye'nin en kapsayıcı sürdürülebilirlik stratejileri uygulamaya geçirilmektedir. 5 Haziran Dünya Çevre Günü ve 6 Haziran Türkiye Limit Aşım Günü bağlamında iklim hedefleri gündeme alınmıştır.",
-      "source": "LinkedIn",
-      "sourceUrl": "https://tr.linkedin.com/pulse/iklim-hedeflerini-uygulamaya-ta%C5%9F%C4%B1ma-zaman%C4%B1-irkuf",
-      "tags": [
-        "iklim hedefleri",
-        "strateji",
-        "uygulama"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-24-006",
-      "date": "2026-10-24",
-      "category": "Raporlama",
-      "categoryIcon": "📊",
-      "title": "ÇSY Bülteni 2026 1. Çeyrek Yayımlandı",
-      "summary": "Erdem&Erdem hukuk müşavirliği tarafından, Türkiye Sürdürülebilirlik Raporlama Standartlarının uygulama kapsamı hakkında 2026 birinci çeyrek bülteni yayımlanmıştır.",
-      "source": "Erdem&Erdem Hukuk Müşavirliği",
-      "sourceUrl": "https://www.erdem-erdem.av.tr/bilgi-bankasi/csy-bulteni-2026-1-ceyrek",
-      "tags": [
-        "ÇSY",
-        "raporlama",
-        "bülten"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-10-24-007",
-      "date": "2026-10-24",
-      "category": "AB Regulasyonlari",
-      "categoryIcon": "🇪🇺",
-      "title": "ESG Eylem Planı Öne Çıkan Başlıkları",
-      "summary": "Sınırda karbon düzenlemeleri, yeşil finansman, sürdürülebilir tarım ve ulaşım gibi konuları içeren AB uyumlu ESG eylem planı başlıkları açıklanmıştır.",
-      "source": "Biçer Güner Hukuk Müşavirliği",
-      "sourceUrl": "https://bicerguner.com/userfiles/file/ESG%20(TR)%20(1).pdf",
-      "tags": [
-        "ESG",
-        "eylem planı",
-        "karbon",
-        "yeşil finansman"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-24-008",
-      "date": "2026-10-24",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "İklim Kanunu Uygulaması Rehberi",
-      "summary": "CimpactPro tarafından Türkiye'de iklim kanununun ne olduğu ve nasıl uygulandığına dair kapsamlı bilgiler sunulmaktadır.",
-      "source": "CimpactPro",
-      "sourceUrl": "https://cimpactpro.com/blog/iklim-kanunu-nedir-turkiye-de-iklim-yasasi-nasil-uygulanıyor",
-      "tags": [
-        "iklim kanunu",
-        "mevzuat",
-        "uygulama"
-      ],
-      "importance": "medium"
-    },
-    {
-      "id": "2026-10-24-009",
-      "date": "2026-10-24",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye'de Sürdürülebilirlikte Yeni Zorunlu Dönem Başlıyor",
-      "summary": "AB'nin 2050'ye kadar iklim nötr bir kıta olma hedefi ve bu stratejinin en somut adımı olan sınırda karbon mekanizması (CBAM) Türkiye'de yeni zorunluluklar getirmektedir.",
-      "source": "YouTube",
-      "sourceUrl": "https://www.youtube.com/watch?v=_rHS9iiyh40",
-      "tags": [
-        "CBAM",
-        "karbon mekanizması",
-        "iklim hedefleri",
-        "zorunluluklar"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-24-010",
-      "date": "2026-10-24",
-      "category": "Karbon & İklim",
-      "categoryIcon": "🌍",
-      "title": "Türkiye'nin İlk İklim Kanunu TBMM'de Kabul Edildi",
-      "summary": "Türkiye'nin ilk iklim kanunu Türkiye Büyük Millet Meclisi tarafından kabul edilmiştir. Bu kanun, ülkenin iklim politikalarının yasal çerçevesini oluşturmaktadır.",
-      "source": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
-      "sourceUrl": "https://csb.gov.tr/haberler/turkiyenin-ilk-iklim-kanunu-tbmm-de-kabul-edildi-302036",
-      "tags": [
-        "iklim kanunu",
-        "TBMM",
-        "mevzuat",
-        "iklim politikası"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-23-001",
-      "date": "2026-10-23",
-      "category": "AB Regulasyonlari",
-      "categoryIcon": "📋",
-      "title": "Türkiye İklim Regülasyon Takvimi 2026-2027",
-      "summary": "Türkiye'nin iklim düzenlemeleri 17 Ocak 2025 tarihli Sürdürülebilirlik Denetimi Yönetmeliği ile çerçevelenmiştir. 28 Temmuz 2026'da Resmî Gazete'de yayımlanan yeni düzenlemeler şirketleri için denetim çerçevesini belirlemektedir.",
-      "source": "Alkazar",
-      "sourceUrl": "https://alkazar.com.tr/iklim-regulasyon-takvimi",
-      "tags": [
-        "iklim",
-        "regülasyon",
-        "denetim",
-        "2026-2027"
-      ],
-      "importance": "high"
-    },
-    {
-      "id": "2026-10-23-002",
-      "date": "2026-10-23",
-      "category": "Finans & Taksonomi",
-      "categoryIcon": "💚",
-      "title": "Türkiye Yeşil Taksonomi Regülasyonunu Yayımladı",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı 24 Eylül 2026'de Türkiye Yeşil Taksonomi Regülasyonunu yayımlamıştır. Bu regülasyon ESG standartları çerçevesinde yeşil finansmanı düzenlemektedir.",
-      "source": "ESIN",
-      "sourceUrl": "https://www.esin.av.tr/2026/09/29/turkiye-publishes-green-taxonomy-regulation",
-      "tags": [
-        "yeşil taksonomi",
-        "finans",
-        "ESG",
-        "düzenleme"
       ],
       "importance": "high"
     }
